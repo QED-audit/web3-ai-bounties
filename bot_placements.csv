@@ -1,4 +1,5 @@
 tool_id,platform,contest_name,contest_id,date,place,total_participants,prize_usd,contest_type,notes,source
+savant,Sherlock,Symbiotic Relay,symbiotic-relay-2025,2025-06-01,6,39,3191.11,human,"1 finding: Operator's stake ignored on re-registration due to stale state",https://audits.sherlock.xyz/watson/snjax
 v12,Cantina,Multiple competitions,,2024-09-25,,,,human,Entered 6 competitions - found 2 High 2 Medium 4 Low 9 Info,https://www.zellic.io/blog/introducing-v12/
 v12,Code4rena,SukukFi,2025-11-sukukfi,2025-12-05,,,40000,pre-audit,V12 pre-audit: 1 High 1 Medium 18 Low 5 QA (out-of-scope for wardens),https://github.com/code-423n4/2025-11-sukukfi/blob/main/2025_11_sukukfi_v12.md
 v12,Code4rena,Garden,2025-11-garden,2025-12-08,,,37500,pre-audit,V12 pre-audit: 1 High (out-of-scope for wardens),https://github.com/code-423n4/2025-11-garden/blob/main/2025-11-garden-V12-findings.md
@@ -7,9 +8,14 @@ v12,Code4rena,Ekubo,2025-11-ekubo,2025-12-10,,,183500,pre-audit,V12 pre-audit: 5
 v12,Code4rena,Covenant,2025-10-covenant,2025-11-03,,,43000,pre-audit,V12 pre-audit: 4 Low 76 QA (out-of-scope for wardens),https://github.com/code-423n4/2025-10-covenant/blob/main/2025-10-covenant_V12.md
 v12,Code4rena,Hybra Finance,2025-10-hybra-finance,2025-10-16,,,33000,pre-audit,V12 pre-audit: 7 High 3 Medium 23 Low (out-of-scope for wardens),https://github.com/code-423n4/2025-10-hybra-finance/blob/main/Hybra-V12-output.md
 v12,Code4rena,Sequence,2025-11-sequence,2025-11-17,,,73000,pre-audit,V12 pre-audit: 5 Low (out-of-scope for wardens),https://github.com/code-423n4/2025-11-sequence/blob/main/2025-11-sequence-v12-findings.md
+almanax,Cantina,Citrea,49b9e08d-4f8f-4103-b6e5-f5f43cf9faa1,2025-08-15,4,479,,human,First ZK rollup on Bitcoin,https://cantina.xyz/competitions/49b9e08d-4f8f-4103-b6e5-f5f43cf9faa1
+almanax,Code4rena,Succinct SP1,succinct-sp1,2025-09-15,6,12,4128,human,RISC-V based ZK virtual machine,https://code4rena.com/audits/2025-09-succinct
+almanax,Code4rena,Hybra Finance,hybra-finance,2025-10-06,69,82,1,human,Decentralized liquidity layer for Hyperliquid,https://code4rena.com/audits/2025-10-hybra-finance
+almanax,Code4rena,GTE Spot CLOB,gte-spot-clob,2025-07-23,62,72,2,human,World's fastest DEX,https://code4rena.com/audits/2025-07-gte-spot-clob-and-router
 maxzuvex,Code4rena,Forte Float128 Solidity Library,forte-float128-solidity-library,2025-04-15,2,,,human,Solidity - AI method by ML engineer,https://x.com/maxzuvex/status/1973691310398939589
 maxzuvex,Code4rena,Cabal Liquid Staking Token,cabal-liquid-staking-token,2025-04-15,2,,,human,Solidity + Assembly - AI method by ML engineer,https://x.com/maxzuvex/status/1973691310398939589
 maxzuvex,Code4rena,Blackhole,blackhole,2025-05-15,3,,,human,Move - AI method by ML engineer,https://x.com/maxzuvex/status/1973691310398939589
 maxzuvex,Code4rena,Chainlink Rewards,chainlink-rewards,2025-06-15,1,,,human,Solidity - 🥇 Gold - AI method by ML engineer,https://x.com/maxzuvex/status/1973691310398939589
 maxzuvex,Code4rena,Meteora Dynamic Bonding Curve,meteora-dynamic-bonding-curve,2025-08-15,2,,,human,Rust - AI method by ML engineer,https://x.com/maxzuvex/status/1973691310398939589
+agentlisa,Code4rena,Virtuals Protocol,virtuals-protocol,2025-04-17,,,37,human,1 High-risk 2 Medium-risk vulnerabilities detected,https://agentlisa.ai/blog/post/code4rena-competition-success
 the-hound,Code4rena,SecondSwap (Research),secondswap,2025-01-15,20,294,,backtesting,Research evaluation: 10 true positives (1 High 7 Medium) ~1.91 points estimated top 15-25,https://muellerberndt.medium.com/unleashing-the-hound-how-ai-agents-find-deep-logic-bugs-in-any-codebase-64c2110e3a6f
