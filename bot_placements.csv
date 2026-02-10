@@ -1,0 +1,912 @@
+tool_id,platform,contest_name,contest_id,date,place,total_participants,prize_usd,contest_type,notes,source
+tragedyotcommons,Code4rena,"EigenLayer",2023-04-eigenlayer,2023-04-27,1,13,3054.66,bot_race,Bot race winner (tier: Winner),https://code4rena.com/reports/2023-04-eigenlayer
+znbotty,Code4rena,"EigenLayer",2023-04-eigenlayer,2023-04-27,2,13,2349.74,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-04-eigenlayer
+mrshudson,Code4rena,"EigenLayer",2023-04-eigenlayer,2023-04-27,3,13,83.82,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-04-eigenlayer
+zz-plus-ultra,Code4rena,"EigenLayer",2023-04-eigenlayer,2023-04-27,4,13,83.82,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-04-eigenlayer
+lightchaser,Code4rena,"EigenLayer",2023-04-eigenlayer,2023-04-27,5,13,83.82,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-04-eigenlayer
+hound,Code4rena,"EigenLayer",2023-04-eigenlayer,2023-04-27,6,13,83.82,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-04-eigenlayer
+the-madaladinator,Code4rena,"EigenLayer",2023-04-eigenlayer,2023-04-27,7,13,83.82,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-04-eigenlayer
+4lpine,Code4rena,"EigenLayer",2023-04-eigenlayer,2023-04-27,8,13,,bot_race,Bot race (tier: C),https://code4rena.com/reports/2023-04-eigenlayer
+icebearrobot,Code4rena,"EigenLayer",2023-04-eigenlayer,2023-04-27,9,13,,bot_race,Bot race (tier: C),https://code4rena.com/reports/2023-04-eigenlayer
+c4lanky,Code4rena,"EigenLayer",2023-04-eigenlayer,2023-04-27,10,13,,bot_race,Bot race (tier: C),https://code4rena.com/reports/2023-04-eigenlayer
+narya,Code4rena,"EigenLayer",2023-04-eigenlayer,2023-04-27,11,13,,bot_race,Bot race (tier: C),https://code4rena.com/reports/2023-04-eigenlayer
+sol2vuln,Code4rena,"EigenLayer",2023-04-eigenlayer,2023-04-27,12,13,,bot_race,Bot race (tier: C),https://code4rena.com/reports/2023-04-eigenlayer
+solidityscanteam,Code4rena,"EigenLayer",2023-04-eigenlayer,2023-04-27,13,13,,bot_race,Bot race (tier: C),https://code4rena.com/reports/2023-04-eigenlayer
+tragedyotcommons,Code4rena,"Ajna",2023-05-ajna,2023-05-03,1,10,1381.61,bot_race,Bot race winner (tier: Winner),https://code4rena.com/reports/2023-05-ajna
+mrshudson,Code4rena,"Ajna",2023-05-ajna,2023-05-03,2,10,354.26,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-05-ajna
+hound,Code4rena,"Ajna",2023-05-ajna,2023-05-03,3,10,354.26,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-05-ajna
+lightchaser,Code4rena,"Ajna",2023-05-ajna,2023-05-03,4,10,354.26,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-05-ajna
+c4lanky,Code4rena,"Ajna",2023-05-ajna,2023-05-03,5,10,107.52,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-05-ajna
+the-madaladinator,Code4rena,"Ajna",2023-05-ajna,2023-05-03,6,10,107.52,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-05-ajna
+znbotty,Code4rena,"Ajna",2023-05-ajna,2023-05-03,7,10,,bot_race,Bot race (tier: C),https://code4rena.com/reports/2023-05-ajna
+icebearrobot,Code4rena,"Ajna",2023-05-ajna,2023-05-03,8,10,,bot_race,Bot race (tier: C),https://code4rena.com/reports/2023-05-ajna
+gas-optimzeer,Code4rena,"Ajna",2023-05-ajna,2023-05-03,9,10,,bot_race,Bot race (tier: C),https://code4rena.com/reports/2023-05-ajna
+sol2vuln,Code4rena,"Ajna",2023-05-ajna,2023-05-03,10,10,,bot_race,Bot race (tier: C),https://code4rena.com/reports/2023-05-ajna
+tragedyotcommons,Code4rena,"Venus",2023-05-venus,2023-05-08,1,12,3004.03,bot_race,Bot race winner (tier: Winner),https://code4rena.com/reports/2023-05-venus
+znbotty,Code4rena,"Venus",2023-05-venus,2023-05-08,2,12,2310.80,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-05-venus
+lightchaser,Code4rena,"Venus",2023-05-venus,2023-05-08,3,12,60.70,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-05-venus
+hound,Code4rena,"Venus",2023-05-venus,2023-05-08,4,12,60.70,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-05-venus
+zz-plus-ultra,Code4rena,"Venus",2023-05-venus,2023-05-08,5,12,60.70,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-05-venus
+mrshudson,Code4rena,"Venus",2023-05-venus,2023-05-08,6,12,60.70,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-05-venus
+c4lanky,Code4rena,"Venus",2023-05-venus,2023-05-08,7,12,60.70,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-05-venus
+the-madaladinator,Code4rena,"Venus",2023-05-venus,2023-05-08,8,12,60.70,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-05-venus
+gas-optimzeer,Code4rena,"Venus",2023-05-venus,2023-05-08,9,12,,bot_race,Bot race (tier: C),https://code4rena.com/reports/2023-05-venus
+narya,Code4rena,"Venus",2023-05-venus,2023-05-08,10,12,,bot_race,Bot race (tier: C),https://code4rena.com/reports/2023-05-venus
+pyaduit,Code4rena,"Venus",2023-05-venus,2023-05-08,11,12,,bot_race,Bot race (tier: C),https://code4rena.com/reports/2023-05-venus
+sol2vuln,Code4rena,"Venus",2023-05-venus,2023-05-08,12,12,,bot_race,Bot race (tier: C),https://code4rena.com/reports/2023-05-venus
+tragedyotcommons,Code4rena,"Juicebox",2023-05-juicebox,2023-05-18,1,11,401.02,bot_race,Bot race winner (tier: Winner),https://code4rena.com/reports/2023-05-juicebox
+gas-optimzeer,Code4rena,"Juicebox",2023-05-juicebox,2023-05-18,2,11,61.70,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-05-juicebox
+znbotty,Code4rena,"Juicebox",2023-05-juicebox,2023-05-18,3,11,61.70,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-05-juicebox
+mrshudson,Code4rena,"Juicebox",2023-05-juicebox,2023-05-18,4,11,61.70,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-05-juicebox
+c4lanky,Code4rena,"Juicebox",2023-05-juicebox,2023-05-18,5,11,61.70,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-05-juicebox
+zz-plus-ultra,Code4rena,"Juicebox",2023-05-juicebox,2023-05-18,6,11,61.70,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-05-juicebox
+hound,Code4rena,"Juicebox",2023-05-juicebox,2023-05-18,7,11,56.59,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-05-juicebox
+icebearrobot,Code4rena,"Juicebox",2023-05-juicebox,2023-05-18,8,11,,bot_race,Bot race (tier: C),https://code4rena.com/reports/2023-05-juicebox
+the-madaladinator,Code4rena,"Juicebox",2023-05-juicebox,2023-05-18,9,11,,bot_race,Bot race (tier: C),https://code4rena.com/reports/2023-05-juicebox
+lightchaser,Code4rena,"Juicebox",2023-05-juicebox,2023-05-18,10,11,,bot_race,Bot race (tier: C),https://code4rena.com/reports/2023-05-juicebox
+sol2vuln,Code4rena,"Juicebox",2023-05-juicebox,2023-05-18,11,11,,bot_race,Bot race (tier: C),https://code4rena.com/reports/2023-05-juicebox
+tragedyotcommons,Code4rena,"Chainlink",2023-05-chainlink,2023-05-26,1,9,267.34,bot_race,Bot race winner (tier: Winner),https://code4rena.com/reports/2023-05-chainlink
+lightchaser,Code4rena,"Chainlink",2023-05-chainlink,2023-05-26,1,9,267.34,bot_race,Bot race winner (tier: Winner),https://code4rena.com/reports/2023-05-chainlink
+zz-plus-ultra,Code4rena,"Chainlink",2023-05-chainlink,2023-05-26,1,9,267.34,bot_race,Bot race winner (tier: Winner),https://code4rena.com/reports/2023-05-chainlink
+the-madaladinator,Code4rena,"Chainlink",2023-05-chainlink,2023-05-26,4,9,154.24,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-05-chainlink
+mrshudson,Code4rena,"Chainlink",2023-05-chainlink,2023-05-26,5,9,154.24,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-05-chainlink
+c4lanky,Code4rena,"Chainlink",2023-05-chainlink,2023-05-26,6,9,154.24,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-05-chainlink
+znbotty,Code4rena,"Chainlink",2023-05-chainlink,2023-05-26,7,9,154.24,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-05-chainlink
+hound,Code4rena,"Chainlink",2023-05-chainlink,2023-05-26,8,9,126.17,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-05-chainlink
+gas-optimzeer,Code4rena,"Chainlink",2023-05-chainlink,2023-05-26,9,9,,bot_race,Bot race (tier: C),https://code4rena.com/reports/2023-05-chainlink
+c4lanky,Code4rena,"Maia",2023-05-maia,2023-05-30,1,9,2645.37,bot_race,Bot race winner (tier: Winner),https://code4rena.com/reports/2023-05-maia
+tragedyotcommons,Code4rena,"Maia",2023-05-maia,2023-05-30,2,9,1719.49,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-05-maia
+the-madaladinator,Code4rena,"Maia",2023-05-maia,2023-05-30,3,9,1719.49,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-05-maia
+hound,Code4rena,"Maia",2023-05-maia,2023-05-30,4,9,317.56,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-05-maia
+lightchaser,Code4rena,"Maia",2023-05-maia,2023-05-30,5,9,317.56,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-05-maia
+mrshudson,Code4rena,"Maia",2023-05-maia,2023-05-30,6,9,,bot_race,Bot race (tier: C),https://code4rena.com/reports/2023-05-maia
+gas-optimzeer,Code4rena,"Maia",2023-05-maia,2023-05-30,7,9,,bot_race,Bot race (tier: C),https://code4rena.com/reports/2023-05-maia
+znbotty,Code4rena,"Maia",2023-05-maia,2023-05-30,8,9,,bot_race,Bot race (tier: C),https://code4rena.com/reports/2023-05-maia
+sol2vuln,Code4rena,"Maia",2023-05-maia,2023-05-30,9,9,,bot_race,Bot race (tier: C),https://code4rena.com/reports/2023-05-maia
+tragedyotcommons,Code4rena,"Stader",2023-06-stader,2023-06-02,1,9,1399.43,bot_race,Bot race winner (tier: Winner),https://code4rena.com/reports/2023-06-stader
+c4lanky,Code4rena,"Stader",2023-06-stader,2023-06-02,2,9,269.12,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-06-stader
+lightchaser,Code4rena,"Stader",2023-06-stader,2023-06-02,3,9,269.12,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-06-stader
+the-madaladinator,Code4rena,"Stader",2023-06-stader,2023-06-02,4,9,269.12,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-06-stader
+znbotty,Code4rena,"Stader",2023-06-stader,2023-06-02,5,9,269.12,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-06-stader
+hound,Code4rena,"Stader",2023-06-stader,2023-06-02,6,9,57.74,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-06-stader
+zz-plus-ultra,Code4rena,"Stader",2023-06-stader,2023-06-02,7,9,57.74,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-06-stader
+mrshudson,Code4rena,"Stader",2023-06-stader,2023-06-02,8,9,57.74,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-06-stader
+0x6980-bot,Code4rena,"Stader",2023-06-stader,2023-06-02,9,9,,bot_race,Bot race (tier: C),https://code4rena.com/reports/2023-06-stader
+tragedyotcommons,Code4rena,"Llama",2023-06-llama,2023-06-06,1,12,640.24,bot_race,Bot race winner (tier: Winner),https://code4rena.com/reports/2023-06-llama
+mrshudson,Code4rena,"Llama",2023-06-llama,2023-06-06,2,12,82.08,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-06-llama
+hound,Code4rena,"Llama",2023-06-llama,2023-06-06,3,12,82.08,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-06-llama
+gas-optimzeer,Code4rena,"Llama",2023-06-llama,2023-06-06,4,12,82.08,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-06-llama
+c4lanky,Code4rena,"Llama",2023-06-llama,2023-06-06,5,12,82.08,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-06-llama
+zz-plus-ultra,Code4rena,"Llama",2023-06-llama,2023-06-06,6,12,82.08,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-06-llama
+the-madaladinator,Code4rena,"Llama",2023-06-llama,2023-06-06,7,12,82.08,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-06-llama
+znbotty,Code4rena,"Llama",2023-06-llama,2023-06-06,8,12,38.70,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-06-llama
+lightchaser,Code4rena,"Llama",2023-06-llama,2023-06-06,9,12,38.70,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-06-llama
+0x6980-bot,Code4rena,"Llama",2023-06-llama,2023-06-06,10,12,,bot_race,Bot race (tier: C),https://code4rena.com/reports/2023-06-llama
+sol2vuln,Code4rena,"Llama",2023-06-llama,2023-06-06,11,12,,bot_race,Bot race (tier: C),https://code4rena.com/reports/2023-06-llama
+decurity-ai,Code4rena,"Llama",2023-06-llama,2023-06-06,12,12,,bot_race,Bot race (tier: C),https://code4rena.com/reports/2023-06-llama
+tragedyotcommons,Code4rena,"Lybra",2023-06-lybra,2023-06-23,1,10,988.86,bot_race,Bot race winner (tier: Winner),https://code4rena.com/reports/2023-06-lybra
+lightchaser,Code4rena,"Lybra",2023-06-lybra,2023-06-23,2,10,253.55,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-06-lybra
+znbotty,Code4rena,"Lybra",2023-06-lybra,2023-06-23,3,10,253.55,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-06-lybra
+mrshudson,Code4rena,"Lybra",2023-06-lybra,2023-06-23,4,10,253.55,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-06-lybra
+hound,Code4rena,"Lybra",2023-06-lybra,2023-06-23,5,10,29.95,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-06-lybra
+zz-plus-ultra,Code4rena,"Lybra",2023-06-lybra,2023-06-23,6,10,29.95,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-06-lybra
+c4lanky,Code4rena,"Lybra",2023-06-lybra,2023-06-23,7,10,29.95,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-06-lybra
+the-madaladinator,Code4rena,"Lybra",2023-06-lybra,2023-06-23,8,10,29.95,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-06-lybra
+gas-optimzeer,Code4rena,"Lybra",2023-06-lybra,2023-06-23,9,10,,bot_race,Bot race (tier: C),https://code4rena.com/reports/2023-06-lybra
+regast,Code4rena,"Lybra",2023-06-lybra,2023-06-23,10,10,,bot_race,Bot race (tier: C),https://code4rena.com/reports/2023-06-lybra
+tragedyotcommons,Code4rena,"LUKSO",2023-06-lukso,2023-06-30,1,9,1082.00,bot_race,Bot race winner (tier: Winner),https://code4rena.com/reports/2023-06-lukso
+zz-plus-ultra,Code4rena,"LUKSO",2023-06-lukso,2023-06-30,2,9,138.72,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-06-lukso
+mrshudson,Code4rena,"LUKSO",2023-06-lukso,2023-06-30,3,9,138.72,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-06-lukso
+the-madaladinator,Code4rena,"LUKSO",2023-06-lukso,2023-06-30,4,9,138.72,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-06-lukso
+lightchaser,Code4rena,"LUKSO",2023-06-lukso,2023-06-30,5,9,138.72,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-06-lukso
+hound,Code4rena,"LUKSO",2023-06-lukso,2023-06-30,6,9,138.72,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-06-lukso
+znbotty,Code4rena,"LUKSO",2023-06-lukso,2023-06-30,7,9,138.72,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-06-lukso
+c4lanky,Code4rena,"LUKSO",2023-06-lukso,2023-06-30,8,9,65.41,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-06-lukso
+gas-optimzeer,Code4rena,"LUKSO",2023-06-lukso,2023-06-30,9,9,65.41,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-06-lukso
+znbotty,Code4rena,"Nouns DAO",2023-07-nounsdao,2023-07-03,1,9,1270.74,bot_race,Bot race winner (tier: Winner),https://code4rena.com/reports/2023-07-nounsdao
+lightchaser,Code4rena,"Nouns DAO",2023-07-nounsdao,2023-07-03,2,9,195.50,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-07-nounsdao
+hound,Code4rena,"Nouns DAO",2023-07-nounsdao,2023-07-03,3,9,195.50,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-07-nounsdao
+0x6980-bot,Code4rena,"Nouns DAO",2023-07-nounsdao,2023-07-03,4,9,195.50,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-07-nounsdao
+zz-plus-ultra,Code4rena,"Nouns DAO",2023-07-nounsdao,2023-07-03,5,9,195.50,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-07-nounsdao
+gas-optimzeer,Code4rena,"Nouns DAO",2023-07-nounsdao,2023-07-03,6,9,195.50,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-07-nounsdao
+mrshudson,Code4rena,"Nouns DAO",2023-07-nounsdao,2023-07-03,7,9,179.31,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-07-nounsdao
+the-madaladinator,Code4rena,"Nouns DAO",2023-07-nounsdao,2023-07-03,8,9,,bot_race,Bot race (tier: C),https://code4rena.com/reports/2023-07-nounsdao
+c4lanky,Code4rena,"Nouns DAO",2023-07-nounsdao,2023-07-03,9,9,,bot_race,Bot race (tier: C),https://code4rena.com/reports/2023-07-nounsdao
+0x6980-bot,Code4rena,"Basin",2023-07-basin,2023-07-03,1,11,1075.79,bot_race,Bot race winner (tier: Winner),https://code4rena.com/reports/2023-07-basin
+zz-plus-ultra,Code4rena,"Basin",2023-07-basin,2023-07-03,2,11,827.53,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-07-basin
+mrshudson,Code4rena,"Basin",2023-07-basin,2023-07-03,3,11,67.69,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-07-basin
+sol2vuln,Code4rena,"Basin",2023-07-basin,2023-07-03,4,11,67.69,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-07-basin
+c4lanky,Code4rena,"Basin",2023-07-basin,2023-07-03,5,11,67.69,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-07-basin
+the-madaladinator,Code4rena,"Basin",2023-07-basin,2023-07-03,6,11,,bot_race,Bot race (tier: C),https://code4rena.com/reports/2023-07-basin
+lightchaser,Code4rena,"Basin",2023-07-basin,2023-07-03,7,11,,bot_race,Bot race (tier: C),https://code4rena.com/reports/2023-07-basin
+hound,Code4rena,"Basin",2023-07-basin,2023-07-03,8,11,,bot_race,Bot race (tier: C),https://code4rena.com/reports/2023-07-basin
+znbotty,Code4rena,"Basin",2023-07-basin,2023-07-03,9,11,,bot_race,Bot race (tier: C),https://code4rena.com/reports/2023-07-basin
+gas-optimzeer,Code4rena,"Basin",2023-07-basin,2023-07-03,10,11,,bot_race,Bot race (tier: C),https://code4rena.com/reports/2023-07-basin
+decurity-ai,Code4rena,"Basin",2023-07-basin,2023-07-03,11,11,,bot_race,Bot race (tier: C),https://code4rena.com/reports/2023-07-basin
+hound,Code4rena,"Chainlink CCIP",2023-07-chainlink,2023-07-05,1,12,372.47,bot_race,Bot race winner (tier: Winner),https://code4rena.com/reports/2023-07-chainlink
+0x6980-bot,Code4rena,"Chainlink CCIP",2023-07-chainlink,2023-07-05,2,12,47.75,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-07-chainlink
+the-madaladinator,Code4rena,"Chainlink CCIP",2023-07-chainlink,2023-07-05,3,12,47.75,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-07-chainlink
+lightchaser,Code4rena,"Chainlink CCIP",2023-07-chainlink,2023-07-05,4,12,47.75,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-07-chainlink
+mrshudson,Code4rena,"Chainlink CCIP",2023-07-chainlink,2023-07-05,5,12,47.75,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-07-chainlink
+znbotty,Code4rena,"Chainlink CCIP",2023-07-chainlink,2023-07-05,6,12,47.75,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-07-chainlink
+sol2vuln,Code4rena,"Chainlink CCIP",2023-07-chainlink,2023-07-05,7,12,47.75,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-07-chainlink
+c4lanky,Code4rena,"Chainlink CCIP",2023-07-chainlink,2023-07-05,8,12,9.90,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-07-chainlink
+zz-plus-ultra,Code4rena,"Chainlink CCIP",2023-07-chainlink,2023-07-05,9,12,9.90,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-07-chainlink
+vuln-detector,Code4rena,"Chainlink CCIP",2023-07-chainlink,2023-07-05,10,12,9.90,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-07-chainlink
+gas-optimzeer,Code4rena,"Chainlink CCIP",2023-07-chainlink,2023-07-05,11,12,9.90,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-07-chainlink
+graphium-bot,Code4rena,"Chainlink CCIP",2023-07-chainlink,2023-07-05,12,12,,bot_race,Bot race (tier: C),https://code4rena.com/reports/2023-07-chainlink
+tragedyotcommons,Code4rena,"Tapioca",2023-07-tapioca,2023-07-05,1,12,4335.53,bot_race,Bot race winner (tier: Winner),https://code4rena.com/reports/2023-07-tapioca
+the-madaladinator,Code4rena,"Tapioca",2023-07-tapioca,2023-07-05,2,12,833.75,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-07-tapioca
+mrshudson,Code4rena,"Tapioca",2023-07-tapioca,2023-07-05,3,12,833.75,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-07-tapioca
+hound,Code4rena,"Tapioca",2023-07-tapioca,2023-07-05,4,12,833.75,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-07-tapioca
+znbotty,Code4rena,"Tapioca",2023-07-tapioca,2023-07-05,5,12,833.75,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-07-tapioca
+graphium-bot,Code4rena,"Tapioca",2023-07-tapioca,2023-07-05,6,12,70.45,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-07-tapioca
+lightchaser,Code4rena,"Tapioca",2023-07-tapioca,2023-07-05,7,12,70.45,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-07-tapioca
+zz-plus-ultra,Code4rena,"Tapioca",2023-07-tapioca,2023-07-05,8,12,70.45,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-07-tapioca
+c4lanky,Code4rena,"Tapioca",2023-07-tapioca,2023-07-05,9,12,70.45,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-07-tapioca
+sol2vuln,Code4rena,"Tapioca",2023-07-tapioca,2023-07-05,10,12,70.45,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-07-tapioca
+vuln-detector,Code4rena,"Tapioca",2023-07-tapioca,2023-07-05,11,12,70.45,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-07-tapioca
+gas-optimzeer,Code4rena,"Tapioca",2023-07-tapioca,2023-07-05,12,12,,bot_race,Bot race (tier: C),https://code4rena.com/reports/2023-07-tapioca
+lightchaser,Code4rena,"PoolTogether",2023-07-pooltogether,2023-07-07,1,13,1037.09,bot_race,Bot race winner (tier: Winner),https://code4rena.com/reports/2023-07-pooltogether
+zz-plus-ultra,Code4rena,"PoolTogether",2023-07-pooltogether,2023-07-07,2,13,159.55,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-07-pooltogether
+the-madaladinator,Code4rena,"PoolTogether",2023-07-pooltogether,2023-07-07,3,13,159.55,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-07-pooltogether
+tragedyotcommons,Code4rena,"PoolTogether",2023-07-pooltogether,2023-07-07,4,13,159.55,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-07-pooltogether
+hound,Code4rena,"PoolTogether",2023-07-pooltogether,2023-07-07,5,13,159.55,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-07-pooltogether
+mrshudson,Code4rena,"PoolTogether",2023-07-pooltogether,2023-07-07,6,13,159.55,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-07-pooltogether
+c4lanky,Code4rena,"PoolTogether",2023-07-pooltogether,2023-07-07,7,13,16.64,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-07-pooltogether
+gas-optimzeer,Code4rena,"PoolTogether",2023-07-pooltogether,2023-07-07,8,13,16.64,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-07-pooltogether
+znbotty,Code4rena,"PoolTogether",2023-07-pooltogether,2023-07-07,9,13,16.64,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-07-pooltogether
+graphium-bot,Code4rena,"PoolTogether",2023-07-pooltogether,2023-07-07,10,13,16.64,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-07-pooltogether
+vuln-detector,Code4rena,"PoolTogether",2023-07-pooltogether,2023-07-07,11,13,16.64,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-07-pooltogether
+sol2vuln,Code4rena,"PoolTogether",2023-07-pooltogether,2023-07-07,12,13,16.64,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-07-pooltogether
+gas-optimzeer,Code4rena,"PoolTogether",2023-07-pooltogether,2023-07-07,13,13,,bot_race,Bot race (tier: C),https://code4rena.com/reports/2023-07-pooltogether
+lightchaser,Code4rena,"Axelar",2023-07-axelar,2023-07-12,1,13,811.34,bot_race,Bot race winner (tier: Winner),https://code4rena.com/reports/2023-07-axelar
+the-madaladinator,Code4rena,"Axelar",2023-07-axelar,2023-07-12,2,13,104.02,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-07-axelar
+0x6980-bot,Code4rena,"Axelar",2023-07-axelar,2023-07-12,3,13,104.02,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-07-axelar
+vuln-detector,Code4rena,"Axelar",2023-07-axelar,2023-07-12,4,13,104.02,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-07-axelar
+zz-plus-ultra,Code4rena,"Axelar",2023-07-axelar,2023-07-12,5,13,104.02,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-07-axelar
+znbotty,Code4rena,"Axelar",2023-07-axelar,2023-07-12,6,13,104.02,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-07-axelar
+hound,Code4rena,"Axelar",2023-07-axelar,2023-07-12,7,13,104.02,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-07-axelar
+c4lanky,Code4rena,"Axelar",2023-07-axelar,2023-07-12,8,13,16.40,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-07-axelar
+mrshudson,Code4rena,"Axelar",2023-07-axelar,2023-07-12,9,13,16.40,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-07-axelar
+gas-optimzeer,Code4rena,"Axelar",2023-07-axelar,2023-07-12,10,13,16.40,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-07-axelar
+tragedyotcommons,Code4rena,"Axelar",2023-07-axelar,2023-07-12,11,13,16.40,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-07-axelar
+sol2vuln,Code4rena,"Axelar",2023-07-axelar,2023-07-12,12,13,16.40,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-07-axelar
+graphium-bot,Code4rena,"Axelar",2023-07-axelar,2023-07-12,13,13,,bot_race,Bot race (tier: C),https://code4rena.com/reports/2023-07-axelar
+0x6980-bot,Code4rena,"Lens",2023-07-lens,2023-07-17,1,13,771.03,bot_race,Bot race winner (tier: Winner),https://code4rena.com/reports/2023-07-lens
+lightchaser,Code4rena,"Lens",2023-07-lens,2023-07-17,2,13,84.73,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-07-lens
+tragedyotcommons,Code4rena,"Lens",2023-07-lens,2023-07-17,3,13,84.73,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-07-lens
+znbotty,Code4rena,"Lens",2023-07-lens,2023-07-17,4,13,84.73,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-07-lens
+hound,Code4rena,"Lens",2023-07-lens,2023-07-17,5,13,84.73,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-07-lens
+c4lanky,Code4rena,"Lens",2023-07-lens,2023-07-17,6,13,84.73,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-07-lens
+mrshudson,Code4rena,"Lens",2023-07-lens,2023-07-17,7,13,84.73,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-07-lens
+the-madaladinator,Code4rena,"Lens",2023-07-lens,2023-07-17,8,13,84.73,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-07-lens
+gas-optimzeer,Code4rena,"Lens",2023-07-lens,2023-07-17,9,13,20.45,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-07-lens
+sol2vuln,Code4rena,"Lens",2023-07-lens,2023-07-17,10,13,20.45,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-07-lens
+graphium-bot,Code4rena,"Lens",2023-07-lens,2023-07-17,11,13,20.45,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-07-lens
+zz-plus-ultra,Code4rena,"Lens",2023-07-lens,2023-07-17,12,13,20.45,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-07-lens
+vuln-detector,Code4rena,"Lens",2023-07-lens,2023-07-17,13,13,,bot_race,Bot race (tier: C),https://code4rena.com/reports/2023-07-lens
+hound,Code4rena,"Amphora",2023-07-amphora,2023-07-21,1,10,640.24,bot_race,Bot race winner (tier: Winner),https://code4rena.com/reports/2023-07-amphora
+c4lanky,Code4rena,"Amphora",2023-07-amphora,2023-07-21,2,10,82.08,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-07-amphora
+znbotty,Code4rena,"Amphora",2023-07-amphora,2023-07-21,3,10,82.08,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-07-amphora
+lightchaser,Code4rena,"Amphora",2023-07-amphora,2023-07-21,4,10,82.08,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-07-amphora
+0x6980-bot,Code4rena,"Amphora",2023-07-amphora,2023-07-21,5,10,82.08,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-07-amphora
+mrshudson,Code4rena,"Amphora",2023-07-amphora,2023-07-21,6,10,82.08,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-07-amphora
+sol2vuln,Code4rena,"Amphora",2023-07-amphora,2023-07-21,7,10,82.08,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-07-amphora
+vuln-detector,Code4rena,"Amphora",2023-07-amphora,2023-07-21,8,10,38.70,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-07-amphora
+gas-optimzeer,Code4rena,"Amphora",2023-07-amphora,2023-07-21,9,10,38.70,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-07-amphora
+graphium-bot,Code4rena,"Amphora",2023-07-amphora,2023-07-21,10,10,,bot_race,Bot race (tier: C),https://code4rena.com/reports/2023-07-amphora
+c4lanky,Code4rena,"Arcade",2023-07-arcade,2023-07-21,1,11,1082.53,bot_race,Bot race winner (tier: Winner),https://code4rena.com/reports/2023-07-arcade
+lightchaser,Code4rena,"Arcade",2023-07-arcade,2023-07-21,2,11,166.54,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-07-arcade
+mrshudson,Code4rena,"Arcade",2023-07-arcade,2023-07-21,3,11,166.54,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-07-arcade
+vuln-detector,Code4rena,"Arcade",2023-07-arcade,2023-07-21,4,11,166.54,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-07-arcade
+0x6980-bot,Code4rena,"Arcade",2023-07-arcade,2023-07-21,5,11,166.54,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-07-arcade
+tragedyotcommons,Code4rena,"Arcade",2023-07-arcade,2023-07-21,6,11,166.54,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-07-arcade
+znbotty,Code4rena,"Arcade",2023-07-arcade,2023-07-21,7,11,42.10,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-07-arcade
+hound,Code4rena,"Arcade",2023-07-arcade,2023-07-21,8,11,42.10,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-07-arcade
+graphium-bot,Code4rena,"Arcade",2023-07-arcade,2023-07-21,9,11,42.10,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-07-arcade
+gas-optimzeer,Code4rena,"Arcade",2023-07-arcade,2023-07-21,10,11,,bot_race,Bot race (tier: C),https://code4rena.com/reports/2023-07-arcade
+sol2vuln,Code4rena,"Arcade",2023-07-arcade,2023-07-21,11,11,,bot_race,Bot race (tier: C),https://code4rena.com/reports/2023-07-arcade
+tragedyotcommons,Code4rena,"Moonwell",2023-07-moonwell,2023-07-24,1,10,1671.17,bot_race,Bot race winner (tier: Winner),https://code4rena.com/reports/2023-07-moonwell
+hound,Code4rena,"Moonwell",2023-07-moonwell,2023-07-24,2,10,428.51,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-07-moonwell
+mrshudson,Code4rena,"Moonwell",2023-07-moonwell,2023-07-24,3,10,428.51,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-07-moonwell
+0x6980-bot,Code4rena,"Moonwell",2023-07-moonwell,2023-07-24,4,10,428.51,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-07-moonwell
+graphium-bot,Code4rena,"Moonwell",2023-07-moonwell,2023-07-24,5,10,50.61,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-07-moonwell
+c4lanky,Code4rena,"Moonwell",2023-07-moonwell,2023-07-24,6,10,50.61,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-07-moonwell
+znbotty,Code4rena,"Moonwell",2023-07-moonwell,2023-07-24,7,10,50.61,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-07-moonwell
+lightchaser,Code4rena,"Moonwell",2023-07-moonwell,2023-07-24,8,10,50.61,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-07-moonwell
+vuln-detector,Code4rena,"Moonwell",2023-07-moonwell,2023-07-24,9,10,,bot_race,Bot race (tier: C),https://code4rena.com/reports/2023-07-moonwell
+gas-optimzeer,Code4rena,"Moonwell",2023-07-moonwell,2023-07-24,10,10,,bot_race,Bot race (tier: C),https://code4rena.com/reports/2023-07-moonwell
+0x6980-bot,Code4rena,"Tangible",2023-08-tangible,2023-08-01,1,13,507.69,bot_race,Bot race winner (tier: Winner),https://code4rena.com/reports/2023-08-tangible
+the-madaladinator,Code4rena,"Tangible",2023-08-tangible,2023-08-01,2,13,48.82,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-08-tangible
+znbotty,Code4rena,"Tangible",2023-08-tangible,2023-08-01,3,13,48.82,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-08-tangible
+lightchaser,Code4rena,"Tangible",2023-08-tangible,2023-08-01,4,13,48.82,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-08-tangible
+hound,Code4rena,"Tangible",2023-08-tangible,2023-08-01,5,13,48.82,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-08-tangible
+c4lanky,Code4rena,"Tangible",2023-08-tangible,2023-08-01,6,13,48.82,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-08-tangible
+vuln-detector,Code4rena,"Tangible",2023-08-tangible,2023-08-01,7,13,48.82,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-08-tangible
+mrshudson,Code4rena,"Tangible",2023-08-tangible,2023-08-01,8,13,48.82,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-08-tangible
+sol2vuln,Code4rena,"Tangible",2023-08-tangible,2023-08-01,9,13,48.82,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-08-tangible
+pechenkata,Code4rena,"Tangible",2023-08-tangible,2023-08-01,10,13,29.52,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-08-tangible
+graphium-bot,Code4rena,"Tangible",2023-08-tangible,2023-08-01,11,13,29.52,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-08-tangible
+gas-optimzeer,Code4rena,"Tangible",2023-08-tangible,2023-08-01,12,13,,bot_race,Bot race (tier: C),https://code4rena.com/reports/2023-08-tangible
+auditbase,Code4rena,"Tangible",2023-08-tangible,2023-08-01,13,13,,bot_race,Bot race (tier: C),https://code4rena.com/reports/2023-08-tangible
+lightchaser,Code4rena,"GoodEntry",2023-08-goodentry,2023-08-01,1,14,459.77,bot_race,Bot race winner (tier: Winner),https://code4rena.com/reports/2023-08-goodentry
+znbotty,Code4rena,"GoodEntry",2023-08-goodentry,2023-08-01,2,14,39.30,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-08-goodentry
+the-madaladinator,Code4rena,"GoodEntry",2023-08-goodentry,2023-08-01,3,14,39.30,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-08-goodentry
+tragedyotcommons,Code4rena,"GoodEntry",2023-08-goodentry,2023-08-01,4,14,39.30,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-08-goodentry
+vuln-detector,Code4rena,"GoodEntry",2023-08-goodentry,2023-08-01,5,14,39.30,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-08-goodentry
+0x6980-bot,Code4rena,"GoodEntry",2023-08-goodentry,2023-08-01,6,14,39.30,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-08-goodentry
+c4lanky,Code4rena,"GoodEntry",2023-08-goodentry,2023-08-01,7,14,39.30,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-08-goodentry
+sol2vuln,Code4rena,"GoodEntry",2023-08-goodentry,2023-08-01,8,14,39.30,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-08-goodentry
+pechenkata,Code4rena,"GoodEntry",2023-08-goodentry,2023-08-01,9,14,39.30,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-08-goodentry
+mrshudson,Code4rena,"GoodEntry",2023-08-goodentry,2023-08-01,10,14,39.30,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-08-goodentry
+hound,Code4rena,"GoodEntry",2023-08-goodentry,2023-08-01,11,14,26.80,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-08-goodentry
+graphium-bot,Code4rena,"GoodEntry",2023-08-goodentry,2023-08-01,12,14,26.80,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-08-goodentry
+auditbase,Code4rena,"GoodEntry",2023-08-goodentry,2023-08-01,13,14,,bot_race,Bot race (tier: C),https://code4rena.com/reports/2023-08-goodentry
+gas-optimzeer,Code4rena,"GoodEntry",2023-08-goodentry,2023-08-01,14,14,,bot_race,Bot race (tier: C),https://code4rena.com/reports/2023-08-goodentry
+lightchaser,Code4rena,"PoolTogether",2023-08-pooltogether,2023-08-02,1,12,440.75,bot_race,Bot race winner (tier: Winner),https://code4rena.com/reports/2023-08-pooltogether
+hound,Code4rena,"PoolTogether",2023-08-pooltogether,2023-08-02,2,12,56.51,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-08-pooltogether
+c4lanky,Code4rena,"PoolTogether",2023-08-pooltogether,2023-08-02,3,12,56.51,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-08-pooltogether
+the-madaladinator,Code4rena,"PoolTogether",2023-08-pooltogether,2023-08-02,4,12,56.51,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-08-pooltogether
+znbotty,Code4rena,"PoolTogether",2023-08-pooltogether,2023-08-02,5,12,56.51,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-08-pooltogether
+vuln-detector,Code4rena,"PoolTogether",2023-08-pooltogether,2023-08-02,6,12,56.51,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-08-pooltogether
+mrshudson,Code4rena,"PoolTogether",2023-08-pooltogether,2023-08-02,7,12,56.51,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-08-pooltogether
+0x6980-bot,Code4rena,"PoolTogether",2023-08-pooltogether,2023-08-02,8,12,11.72,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-08-pooltogether
+graphium-bot,Code4rena,"PoolTogether",2023-08-pooltogether,2023-08-02,9,12,11.72,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-08-pooltogether
+gas-optimzeer,Code4rena,"PoolTogether",2023-08-pooltogether,2023-08-02,10,12,11.72,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-08-pooltogether
+auditbase,Code4rena,"PoolTogether",2023-08-pooltogether,2023-08-02,11,12,11.72,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-08-pooltogether
+sol2vuln,Code4rena,"PoolTogether",2023-08-pooltogether,2023-08-02,12,12,,bot_race,Bot race (tier: C),https://code4rena.com/reports/2023-08-pooltogether
+tragedyotcommons,Code4rena,"Arbitrum",2023-08-arbitrum,2023-08-03,1,13,751.23,bot_race,Bot race winner (tier: Winner),https://code4rena.com/reports/2023-08-arbitrum
+mrshudson,Code4rena,"Arbitrum",2023-08-arbitrum,2023-08-03,2,13,72.23,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-08-arbitrum
+the-madaladinator,Code4rena,"Arbitrum",2023-08-arbitrum,2023-08-03,3,13,72.23,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-08-arbitrum
+hound,Code4rena,"Arbitrum",2023-08-arbitrum,2023-08-03,4,13,72.23,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-08-arbitrum
+znbotty,Code4rena,"Arbitrum",2023-08-arbitrum,2023-08-03,5,13,72.23,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-08-arbitrum
+vuln-detector,Code4rena,"Arbitrum",2023-08-arbitrum,2023-08-03,6,13,72.23,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-08-arbitrum
+0x6980-bot,Code4rena,"Arbitrum",2023-08-arbitrum,2023-08-03,7,13,72.23,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-08-arbitrum
+c4lanky,Code4rena,"Arbitrum",2023-08-arbitrum,2023-08-03,8,13,72.23,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-08-arbitrum
+graphium-bot,Code4rena,"Arbitrum",2023-08-arbitrum,2023-08-03,9,13,72.23,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-08-arbitrum
+auditbase,Code4rena,"Arbitrum",2023-08-arbitrum,2023-08-03,10,13,27.87,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-08-arbitrum
+lightchaser,Code4rena,"Arbitrum",2023-08-arbitrum,2023-08-03,11,13,27.87,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-08-arbitrum
+pechenkata,Code4rena,"Arbitrum",2023-08-arbitrum,2023-08-03,12,13,27.87,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-08-arbitrum
+gas-optimzeer,Code4rena,"Arbitrum",2023-08-arbitrum,2023-08-03,13,13,,bot_race,Bot race (tier: C),https://code4rena.com/reports/2023-08-arbitrum
+hound,Code4rena,"veRWA",2023-08-verwa,2023-08-07,1,14,421.27,bot_race,Bot race winner (tier: Winner),https://code4rena.com/reports/2023-08-verwa
+0x6980-bot,Code4rena,"veRWA",2023-08-verwa,2023-08-07,2,14,90.63,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-08-verwa
+tragedyotcommons,Code4rena,"veRWA",2023-08-verwa,2023-08-07,3,14,90.63,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-08-verwa
+mrshudson,Code4rena,"veRWA",2023-08-verwa,2023-08-07,4,14,90.63,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-08-verwa
+pechenkata,Code4rena,"veRWA",2023-08-verwa,2023-08-07,5,14,90.63,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-08-verwa
+graphium-bot,Code4rena,"veRWA",2023-08-verwa,2023-08-07,6,14,5.13,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-08-verwa
+the-madaladinator,Code4rena,"veRWA",2023-08-verwa,2023-08-07,7,14,5.13,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-08-verwa
+lightchaser,Code4rena,"veRWA",2023-08-verwa,2023-08-07,8,14,5.13,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-08-verwa
+vuln-detector,Code4rena,"veRWA",2023-08-verwa,2023-08-07,9,14,5.13,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-08-verwa
+c4lanky,Code4rena,"veRWA",2023-08-verwa,2023-08-07,10,14,5.13,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-08-verwa
+sol2vuln,Code4rena,"veRWA",2023-08-verwa,2023-08-07,11,14,5.13,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-08-verwa
+znbotty,Code4rena,"veRWA",2023-08-verwa,2023-08-07,12,14,5.13,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-08-verwa
+auditbase,Code4rena,"veRWA",2023-08-verwa,2023-08-07,13,14,5.13,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-08-verwa
+gas-optimzeer,Code4rena,"veRWA",2023-08-verwa,2023-08-07,14,14,,bot_race,Bot race (tier: C),https://code4rena.com/reports/2023-08-verwa
+hound,Code4rena,"Shell",2023-08-shell,2023-08-21,1,14,489.26,bot_race,Bot race winner (tier: Winner),https://code4rena.com/reports/2023-08-shell
+tragedyotcommons,Code4rena,"Shell",2023-08-shell,2023-08-21,2,14,94.09,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-08-shell
+mrshudson,Code4rena,"Shell",2023-08-shell,2023-08-21,3,14,94.09,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-08-shell
+vuln-detector,Code4rena,"Shell",2023-08-shell,2023-08-21,4,14,94.09,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-08-shell
+0x6980-bot,Code4rena,"Shell",2023-08-shell,2023-08-21,5,14,94.09,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-08-shell
+pechenkata,Code4rena,"Shell",2023-08-shell,2023-08-21,6,14,10.21,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-08-shell
+the-madaladinator,Code4rena,"Shell",2023-08-shell,2023-08-21,7,14,10.21,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-08-shell
+lightchaser,Code4rena,"Shell",2023-08-shell,2023-08-21,8,14,10.21,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-08-shell
+auditbase,Code4rena,"Shell",2023-08-shell,2023-08-21,9,14,10.21,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-08-shell
+sol2vuln,Code4rena,"Shell",2023-08-shell,2023-08-21,10,14,10.21,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-08-shell
+graphium-bot,Code4rena,"Shell",2023-08-shell,2023-08-21,11,14,,bot_race,Bot race (tier: C),https://code4rena.com/reports/2023-08-shell
+c4lanky,Code4rena,"Shell",2023-08-shell,2023-08-21,12,14,,bot_race,Bot race (tier: C),https://code4rena.com/reports/2023-08-shell
+gas-optimzeer,Code4rena,"Shell",2023-08-shell,2023-08-21,13,14,,bot_race,Bot race (tier: C),https://code4rena.com/reports/2023-08-shell
+znbotty,Code4rena,"Shell",2023-08-shell,2023-08-21,14,14,,bot_race,Bot race (tier: C),https://code4rena.com/reports/2023-08-shell
+tragedyotcommons,Code4rena,"Dopex",2023-08-dopex,2023-08-21,1,14,3260.51,bot_race,Bot race winner (tier: Winner),https://code4rena.com/reports/2023-08-dopex
+0x6980-bot,Code4rena,"Dopex",2023-08-dopex,2023-08-21,2,14,2508.08,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-08-dopex
+lightchaser,Code4rena,"Dopex",2023-08-dopex,2023-08-21,3,14,129.31,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-08-dopex
+the-madaladinator,Code4rena,"Dopex",2023-08-dopex,2023-08-21,4,14,129.31,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-08-dopex
+hound,Code4rena,"Dopex",2023-08-dopex,2023-08-21,5,14,129.31,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-08-dopex
+znbotty,Code4rena,"Dopex",2023-08-dopex,2023-08-21,6,14,129.31,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-08-dopex
+vuln-detector,Code4rena,"Dopex",2023-08-dopex,2023-08-21,7,14,,bot_race,Bot race (tier: C),https://code4rena.com/reports/2023-08-dopex
+c4lanky,Code4rena,"Dopex",2023-08-dopex,2023-08-21,8,14,,bot_race,Bot race (tier: C),https://code4rena.com/reports/2023-08-dopex
+mrshudson,Code4rena,"Dopex",2023-08-dopex,2023-08-21,9,14,,bot_race,Bot race (tier: C),https://code4rena.com/reports/2023-08-dopex
+graphium-bot,Code4rena,"Dopex",2023-08-dopex,2023-08-21,10,14,,bot_race,Bot race (tier: C),https://code4rena.com/reports/2023-08-dopex
+sol2vuln,Code4rena,"Dopex",2023-08-dopex,2023-08-21,11,14,,bot_race,Bot race (tier: C),https://code4rena.com/reports/2023-08-dopex
+gas-optimzeer,Code4rena,"Dopex",2023-08-dopex,2023-08-21,12,14,,bot_race,Bot race (tier: C),https://code4rena.com/reports/2023-08-dopex
+auditbase,Code4rena,"Dopex",2023-08-dopex,2023-08-21,13,14,,bot_race,Bot race (tier: C),https://code4rena.com/reports/2023-08-dopex
+pechenkata,Code4rena,"Dopex",2023-08-dopex,2023-08-21,14,14,,bot_race,Bot race (tier: C),https://code4rena.com/reports/2023-08-dopex
+tragedyotcommons,Code4rena,"Chainlink Staking",2023-08-chainlink,2023-08-25,1,13,5485.08,bot_race,Bot race winner (tier: Winner),https://code4rena.com/reports/2023-08-chainlink
+hound,Code4rena,"Chainlink Staking",2023-08-chainlink,2023-08-25,2,13,2109.64,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-08-chainlink
+vuln-detector,Code4rena,"Chainlink Staking",2023-08-chainlink,2023-08-25,3,13,2109.64,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-08-chainlink
+the-madaladinator,Code4rena,"Chainlink Staking",2023-08-chainlink,2023-08-25,4,13,131.55,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-08-chainlink
+znbotty,Code4rena,"Chainlink Staking",2023-08-chainlink,2023-08-25,5,13,131.55,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-08-chainlink
+mrshudson,Code4rena,"Chainlink Staking",2023-08-chainlink,2023-08-25,6,13,131.55,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-08-chainlink
+graphium-bot,Code4rena,"Chainlink Staking",2023-08-chainlink,2023-08-25,7,13,131.55,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-08-chainlink
+0x6980-bot,Code4rena,"Chainlink Staking",2023-08-chainlink,2023-08-25,8,13,131.55,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-08-chainlink
+c4lanky,Code4rena,"Chainlink Staking",2023-08-chainlink,2023-08-25,9,13,,bot_race,Bot race (tier: C),https://code4rena.com/reports/2023-08-chainlink
+pechenkata,Code4rena,"Chainlink Staking",2023-08-chainlink,2023-08-25,10,13,,bot_race,Bot race (tier: C),https://code4rena.com/reports/2023-08-chainlink
+auditbase,Code4rena,"Chainlink Staking",2023-08-chainlink,2023-08-25,11,13,,bot_race,Bot race (tier: C),https://code4rena.com/reports/2023-08-chainlink
+lightchaser,Code4rena,"Chainlink Staking",2023-08-chainlink,2023-08-25,12,13,,bot_race,Bot race (tier: C),https://code4rena.com/reports/2023-08-chainlink
+gas-optimzeer,Code4rena,"Chainlink Staking",2023-08-chainlink,2023-08-25,13,13,,bot_race,Bot race (tier: C),https://code4rena.com/reports/2023-08-chainlink
+henry,Code4rena,"Livepeer",2023-08-livepeer,2023-08-31,1,17,439.89,bot_race,Bot race winner (tier: Winner),https://code4rena.com/reports/2023-08-livepeer
+the-madaladinator,Code4rena,"Livepeer",2023-08-livepeer,2023-08-31,2,17,42.30,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-08-livepeer
+tragedyotcommons,Code4rena,"Livepeer",2023-08-livepeer,2023-08-31,3,17,42.30,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-08-livepeer
+hound,Code4rena,"Livepeer",2023-08-livepeer,2023-08-31,4,17,42.30,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-08-livepeer
+vuln-detector,Code4rena,"Livepeer",2023-08-livepeer,2023-08-31,5,17,42.30,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-08-livepeer
+0x6980-bot,Code4rena,"Livepeer",2023-08-livepeer,2023-08-31,6,17,42.30,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-08-livepeer
+gasaxy,Code4rena,"Livepeer",2023-08-livepeer,2023-08-31,7,17,42.30,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-08-livepeer
+mrshudson,Code4rena,"Livepeer",2023-08-livepeer,2023-08-31,8,17,42.30,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-08-livepeer
+c4lanky,Code4rena,"Livepeer",2023-08-livepeer,2023-08-31,9,17,42.30,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-08-livepeer
+znbotty,Code4rena,"Livepeer",2023-08-livepeer,2023-08-31,10,17,9.12,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-08-livepeer
+graphium-bot,Code4rena,"Livepeer",2023-08-livepeer,2023-08-31,11,17,9.12,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-08-livepeer
+auditbase,Code4rena,"Livepeer",2023-08-livepeer,2023-08-31,12,17,9.12,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-08-livepeer
+tera,Code4rena,"Livepeer",2023-08-livepeer,2023-08-31,13,17,9.12,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-08-livepeer
+lightchaser,Code4rena,"Livepeer",2023-08-livepeer,2023-08-31,14,17,9.12,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-08-livepeer
+gas-optimzeer,Code4rena,"Livepeer",2023-08-livepeer,2023-08-31,15,17,,bot_race,Bot race (tier: C),https://code4rena.com/reports/2023-08-livepeer
+physetermacrocephalus,Code4rena,"Livepeer",2023-08-livepeer,2023-08-31,16,17,,bot_race,Bot race (tier: C),https://code4rena.com/reports/2023-08-livepeer
+pechenkata,Code4rena,"Livepeer",2023-08-livepeer,2023-08-31,17,17,,bot_race,Bot race (tier: C),https://code4rena.com/reports/2023-08-livepeer
+henry,Code4rena,"Ondo",2023-09-ondo,2023-09-01,1,16,405.43,bot_race,Bot race winner (tier: Winner),https://code4rena.com/reports/2023-09-ondo
+lightchaser,Code4rena,"Ondo",2023-09-ondo,2023-09-01,2,16,62.37,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-09-ondo
+vuln-detector,Code4rena,"Ondo",2023-09-ondo,2023-09-01,3,16,62.37,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-09-ondo
+0x6980-bot,Code4rena,"Ondo",2023-09-ondo,2023-09-01,4,16,62.37,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-09-ondo
+znbotty,Code4rena,"Ondo",2023-09-ondo,2023-09-01,5,16,62.37,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-09-ondo
+mrshudson,Code4rena,"Ondo",2023-09-ondo,2023-09-01,6,16,62.37,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-09-ondo
+gasaxy,Code4rena,"Ondo",2023-09-ondo,2023-09-01,7,16,4.46,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-09-ondo
+hound,Code4rena,"Ondo",2023-09-ondo,2023-09-01,8,16,4.46,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-09-ondo
+the-madaladinator,Code4rena,"Ondo",2023-09-ondo,2023-09-01,9,16,4.46,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-09-ondo
+auditbase,Code4rena,"Ondo",2023-09-ondo,2023-09-01,10,16,4.46,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-09-ondo
+c4lanky,Code4rena,"Ondo",2023-09-ondo,2023-09-01,11,16,4.46,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-09-ondo
+graphium-bot,Code4rena,"Ondo",2023-09-ondo,2023-09-01,12,16,4.46,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-09-ondo
+tera,Code4rena,"Ondo",2023-09-ondo,2023-09-01,13,16,4.46,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-09-ondo
+gas-optimzeer,Code4rena,"Ondo",2023-09-ondo,2023-09-01,14,16,4.46,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-09-ondo
+sol2vuln,Code4rena,"Ondo",2023-09-ondo,2023-09-01,15,16,,bot_race,Bot race (tier: C),https://code4rena.com/reports/2023-09-ondo
+pechenkata,Code4rena,"Ondo",2023-09-ondo,2023-09-01,16,16,,bot_race,Bot race (tier: C),https://code4rena.com/reports/2023-09-ondo
+hound,Code4rena,"Delegate",2023-09-delegate,2023-09-05,1,16,1070.38,bot_race,Bot race winner (tier: Winner),https://code4rena.com/reports/2023-09-delegate
+henry,Code4rena,"Delegate",2023-09-delegate,2023-09-05,2,16,411.69,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-09-delegate
+mrshudson,Code4rena,"Delegate",2023-09-delegate,2023-09-05,3,16,411.69,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-09-delegate
+0x6980-bot,Code4rena,"Delegate",2023-09-delegate,2023-09-05,4,16,98.84,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-09-delegate
+the-madaladinator,Code4rena,"Delegate",2023-09-delegate,2023-09-05,5,16,98.84,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-09-delegate
+sol2vuln,Code4rena,"Delegate",2023-09-delegate,2023-09-05,6,16,,bot_race,Bot race (tier: C),https://code4rena.com/reports/2023-09-delegate
+gas-optimzeer,Code4rena,"Delegate",2023-09-delegate,2023-09-05,7,16,,bot_race,Bot race (tier: C),https://code4rena.com/reports/2023-09-delegate
+gasaxy,Code4rena,"Delegate",2023-09-delegate,2023-09-05,8,16,,bot_race,Bot race (tier: C),https://code4rena.com/reports/2023-09-delegate
+tera,Code4rena,"Delegate",2023-09-delegate,2023-09-05,9,16,,bot_race,Bot race (tier: C),https://code4rena.com/reports/2023-09-delegate
+lightchaser,Code4rena,"Delegate",2023-09-delegate,2023-09-05,10,16,,bot_race,Bot race (tier: C),https://code4rena.com/reports/2023-09-delegate
+pechenkata,Code4rena,"Delegate",2023-09-delegate,2023-09-05,11,16,,bot_race,Bot race (tier: C),https://code4rena.com/reports/2023-09-delegate
+znbotty,Code4rena,"Delegate",2023-09-delegate,2023-09-05,12,16,,bot_race,Bot race (tier: C),https://code4rena.com/reports/2023-09-delegate
+auditbase,Code4rena,"Delegate",2023-09-delegate,2023-09-05,13,16,,bot_race,Bot race (tier: C),https://code4rena.com/reports/2023-09-delegate
+graphium-bot,Code4rena,"Delegate",2023-09-delegate,2023-09-05,14,16,,bot_race,Bot race (tier: C),https://code4rena.com/reports/2023-09-delegate
+c4lanky,Code4rena,"Delegate",2023-09-delegate,2023-09-05,15,16,,bot_race,Bot race (tier: C),https://code4rena.com/reports/2023-09-delegate
+vuln-detector,Code4rena,"Delegate",2023-09-delegate,2023-09-05,16,16,,bot_race,Bot race (tier: C),https://code4rena.com/reports/2023-09-delegate
+tragedyotcommons,Code4rena,"Centrifuge",2023-09-centrifuge,2023-09-08,1,14,623.72,bot_race,Bot race winner (tier: Winner),https://code4rena.com/reports/2023-09-centrifuge
+henry,Code4rena,"Centrifuge",2023-09-centrifuge,2023-09-08,2,14,68.54,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-09-centrifuge
+0x6980-bot,Code4rena,"Centrifuge",2023-09-centrifuge,2023-09-08,3,14,68.54,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-09-centrifuge
+lightchaser,Code4rena,"Centrifuge",2023-09-centrifuge,2023-09-08,4,14,68.54,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-09-centrifuge
+vuln-detector,Code4rena,"Centrifuge",2023-09-centrifuge,2023-09-08,5,14,68.54,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-09-centrifuge
+hound,Code4rena,"Centrifuge",2023-09-centrifuge,2023-09-08,6,14,68.54,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-09-centrifuge
+pechenkata,Code4rena,"Centrifuge",2023-09-centrifuge,2023-09-08,7,14,68.54,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-09-centrifuge
+mrshudson,Code4rena,"Centrifuge",2023-09-centrifuge,2023-09-08,8,14,68.54,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-09-centrifuge
+graphium-bot,Code4rena,"Centrifuge",2023-09-centrifuge,2023-09-08,9,14,10.22,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-09-centrifuge
+c4lanky,Code4rena,"Centrifuge",2023-09-centrifuge,2023-09-08,10,14,10.22,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-09-centrifuge
+physetermacrocephalus,Code4rena,"Centrifuge",2023-09-centrifuge,2023-09-08,11,14,10.22,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-09-centrifuge
+gasaxy,Code4rena,"Centrifuge",2023-09-centrifuge,2023-09-08,12,14,10.22,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-09-centrifuge
+gas-optimzeer,Code4rena,"Centrifuge",2023-09-centrifuge,2023-09-08,13,14,10.22,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-09-centrifuge
+tera,Code4rena,"Centrifuge",2023-09-centrifuge,2023-09-08,14,14,10.22,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-09-centrifuge
+tragedyotcommons,Code4rena,"Maia DAO",2023-09-maia,2023-09-22,1,17,1154.70,bot_race,Bot race winner (tier: Winner),https://code4rena.com/reports/2023-09-maia
+0x6980-bot,Code4rena,"Maia DAO",2023-09-maia,2023-09-22,2,17,177.65,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-09-maia
+henry,Code4rena,"Maia DAO",2023-09-maia,2023-09-22,3,17,177.65,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-09-maia
+mrshudson,Code4rena,"Maia DAO",2023-09-maia,2023-09-22,4,17,177.65,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-09-maia
+vuln-detector,Code4rena,"Maia DAO",2023-09-maia,2023-09-22,5,17,177.65,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-09-maia
+lightchaser,Code4rena,"Maia DAO",2023-09-maia,2023-09-22,6,17,177.65,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-09-maia
+graphium-bot,Code4rena,"Maia DAO",2023-09-maia,2023-09-22,7,17,15.14,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-09-maia
+tera,Code4rena,"Maia DAO",2023-09-maia,2023-09-22,8,17,15.14,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-09-maia
+hound,Code4rena,"Maia DAO",2023-09-maia,2023-09-22,9,17,15.14,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-09-maia
+znbotty,Code4rena,"Maia DAO",2023-09-maia,2023-09-22,10,17,15.14,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-09-maia
+the-madaladinator,Code4rena,"Maia DAO",2023-09-maia,2023-09-22,11,17,15.14,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-09-maia
+auditbase,Code4rena,"Maia DAO",2023-09-maia,2023-09-22,12,17,15.14,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-09-maia
+c4lanky,Code4rena,"Maia DAO",2023-09-maia,2023-09-22,13,17,15.14,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-09-maia
+gas-optimzeer,Code4rena,"Maia DAO",2023-09-maia,2023-09-22,14,17,,bot_race,Bot race (tier: C),https://code4rena.com/reports/2023-09-maia
+pechenkata,Code4rena,"Maia DAO",2023-09-maia,2023-09-22,15,17,,bot_race,Bot race (tier: C),https://code4rena.com/reports/2023-09-maia
+gasaxy,Code4rena,"Maia DAO",2023-09-maia,2023-09-22,16,17,,bot_race,Bot race (tier: C),https://code4rena.com/reports/2023-09-maia
+physetermacrocephalus,Code4rena,"Maia DAO",2023-09-maia,2023-09-22,17,17,,bot_race,Bot race (tier: C),https://code4rena.com/reports/2023-09-maia
+tera,Code4rena,"Venus",2023-09-venus,2023-09-28,1,16,377.91,bot_race,Bot race winner (tier: Winner),https://code4rena.com/reports/2023-09-venus
+hound,Code4rena,"Venus",2023-09-venus,2023-09-28,2,16,48.45,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-09-venus
+mrshudson,Code4rena,"Venus",2023-09-venus,2023-09-28,3,16,48.45,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-09-venus
+0x6980-bot,Code4rena,"Venus",2023-09-venus,2023-09-28,4,16,48.45,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-09-venus
+henry,Code4rena,"Venus",2023-09-venus,2023-09-28,5,16,48.45,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-09-venus
+vuln-detector,Code4rena,"Venus",2023-09-venus,2023-09-28,6,16,48.45,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-09-venus
+graphium-bot,Code4rena,"Venus",2023-09-venus,2023-09-28,7,16,48.45,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-09-venus
+lightchaser,Code4rena,"Venus",2023-09-venus,2023-09-28,8,16,14.21,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-09-venus
+the-madaladinator,Code4rena,"Venus",2023-09-venus,2023-09-28,9,16,14.21,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-09-venus
+znbotty,Code4rena,"Venus",2023-09-venus,2023-09-28,10,16,14.21,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-09-venus
+gas-optimzeer,Code4rena,"Venus",2023-09-venus,2023-09-28,11,16,,bot_race,Bot race (tier: C),https://code4rena.com/reports/2023-09-venus
+gasaxy,Code4rena,"Venus",2023-09-venus,2023-09-28,12,16,,bot_race,Bot race (tier: C),https://code4rena.com/reports/2023-09-venus
+sol2vuln,Code4rena,"Venus",2023-09-venus,2023-09-28,13,16,,bot_race,Bot race (tier: C),https://code4rena.com/reports/2023-09-venus
+c4lanky,Code4rena,"Venus",2023-09-venus,2023-09-28,14,16,,bot_race,Bot race (tier: C),https://code4rena.com/reports/2023-09-venus
+pechenkata,Code4rena,"Venus",2023-09-venus,2023-09-28,15,16,,bot_race,Bot race (tier: C),https://code4rena.com/reports/2023-09-venus
+auditbase,Code4rena,"Venus",2023-09-venus,2023-09-28,16,16,,bot_race,Bot race (tier: C),https://code4rena.com/reports/2023-09-venus
+tragedyotcommons,Code4rena,"zkSync",2023-10-zksync,2023-10-02,1,17,2901.13,bot_race,Bot race winner (tier: Winner),https://code4rena.com/reports/2023-10-zksync
+lightchaser,Code4rena,"zkSync",2023-10-zksync,2023-10-02,2,17,318.81,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-10-zksync
+0x6980-bot,Code4rena,"zkSync",2023-10-zksync,2023-10-02,3,17,318.81,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-10-zksync
+vuln-detector,Code4rena,"zkSync",2023-10-zksync,2023-10-02,4,17,318.81,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-10-zksync
+znbotty,Code4rena,"zkSync",2023-10-zksync,2023-10-02,5,17,318.81,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-10-zksync
+henry,Code4rena,"zkSync",2023-10-zksync,2023-10-02,6,17,318.81,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-10-zksync
+the-madaladinator,Code4rena,"zkSync",2023-10-zksync,2023-10-02,7,17,318.81,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-10-zksync
+mrshudson,Code4rena,"zkSync",2023-10-zksync,2023-10-02,8,17,318.81,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-10-zksync
+gasaxy,Code4rena,"zkSync",2023-10-zksync,2023-10-02,9,17,59.10,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-10-zksync
+hound,Code4rena,"zkSync",2023-10-zksync,2023-10-02,10,17,59.10,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-10-zksync
+graphium-bot,Code4rena,"zkSync",2023-10-zksync,2023-10-02,11,17,59.10,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-10-zksync
+c4lanky,Code4rena,"zkSync",2023-10-zksync,2023-10-02,12,17,59.10,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-10-zksync
+tera,Code4rena,"zkSync",2023-10-zksync,2023-10-02,13,17,59.10,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-10-zksync
+pechenkata,Code4rena,"zkSync",2023-10-zksync,2023-10-02,14,17,,bot_race,Bot race (tier: C),https://code4rena.com/reports/2023-10-zksync
+auditbase,Code4rena,"zkSync",2023-10-zksync,2023-10-02,15,17,,bot_race,Bot race (tier: C),https://code4rena.com/reports/2023-10-zksync
+physetermacrocephalus,Code4rena,"zkSync",2023-10-zksync,2023-10-02,16,17,,bot_race,Bot race (tier: C),https://code4rena.com/reports/2023-10-zksync
+gas-optimzeer,Code4rena,"zkSync",2023-10-zksync,2023-10-02,17,17,,bot_race,Bot race (tier: C),https://code4rena.com/reports/2023-10-zksync
+tragedyotcommons,Code4rena,"Canto Liquidity Mining",2023-10-canto,2023-10-03,1,16,236.80,bot_race,Bot race winner (tier: Winner),https://code4rena.com/reports/2023-10-canto
+0x6980-bot,Code4rena,"Canto Liquidity Mining",2023-10-canto,2023-10-03,2,16,30.36,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-10-canto
+henry,Code4rena,"Canto Liquidity Mining",2023-10-canto,2023-10-03,3,16,30.36,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-10-canto
+gasaxy,Code4rena,"Canto Liquidity Mining",2023-10-canto,2023-10-03,4,16,30.36,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-10-canto
+vuln-detector,Code4rena,"Canto Liquidity Mining",2023-10-canto,2023-10-03,5,16,30.36,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-10-canto
+the-madaladinator,Code4rena,"Canto Liquidity Mining",2023-10-canto,2023-10-03,6,16,30.36,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-10-canto
+hound,Code4rena,"Canto Liquidity Mining",2023-10-canto,2023-10-03,7,16,30.36,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-10-canto
+graphium-bot,Code4rena,"Canto Liquidity Mining",2023-10-canto,2023-10-03,8,16,2.66,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-10-canto
+pechenkata,Code4rena,"Canto Liquidity Mining",2023-10-canto,2023-10-03,9,16,2.66,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-10-canto
+mrshudson,Code4rena,"Canto Liquidity Mining",2023-10-canto,2023-10-03,10,16,2.66,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-10-canto
+auditbase,Code4rena,"Canto Liquidity Mining",2023-10-canto,2023-10-03,11,16,2.66,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-10-canto
+tera,Code4rena,"Canto Liquidity Mining",2023-10-canto,2023-10-03,12,16,2.66,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-10-canto
+sol2vuln,Code4rena,"Canto Liquidity Mining",2023-10-canto,2023-10-03,13,16,2.66,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-10-canto
+znbotty,Code4rena,"Canto Liquidity Mining",2023-10-canto,2023-10-03,14,16,2.66,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-10-canto
+lightchaser,Code4rena,"Canto Liquidity Mining",2023-10-canto,2023-10-03,15,16,2.66,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-10-canto
+gas-optimzeer,Code4rena,"Canto Liquidity Mining",2023-10-canto,2023-10-03,16,16,,bot_race,Bot race (tier: C),https://code4rena.com/reports/2023-10-canto
+henry,Code4rena,"ENS",2023-10-ens,2023-10-05,1,13,220.30,bot_race,Bot race winner (tier: Winner),https://code4rena.com/reports/2023-10-ens
+0x6980-bot,Code4rena,"ENS",2023-10-ens,2023-10-05,2,13,24.21,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-10-ens
+vuln-detector,Code4rena,"ENS",2023-10-ens,2023-10-05,3,13,24.21,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-10-ens
+hound,Code4rena,"ENS",2023-10-ens,2023-10-05,4,13,24.21,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-10-ens
+lightchaser,Code4rena,"ENS",2023-10-ens,2023-10-05,5,13,24.21,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-10-ens
+the-madaladinator,Code4rena,"ENS",2023-10-ens,2023-10-05,6,13,24.21,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-10-ens
+graphium-bot,Code4rena,"ENS",2023-10-ens,2023-10-05,7,13,24.21,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-10-ens
+sol2vuln,Code4rena,"ENS",2023-10-ens,2023-10-05,8,13,24.21,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-10-ens
+mrshudson,Code4rena,"ENS",2023-10-ens,2023-10-05,9,13,5.84,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-10-ens
+znbotty,Code4rena,"ENS",2023-10-ens,2023-10-05,10,13,5.84,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-10-ens
+pechenkata,Code4rena,"ENS",2023-10-ens,2023-10-05,11,13,5.84,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-10-ens
+gas-optimzeer,Code4rena,"ENS",2023-10-ens,2023-10-05,12,13,5.84,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-10-ens
+mangat,Code4rena,"ENS",2023-10-ens,2023-10-05,13,13,,bot_race,Bot race (tier: C),https://code4rena.com/reports/2023-10-ens
+tragedyotcommons,Code4rena,"Brahma",2023-10-brahma,2023-10-13,1,17,248.99,bot_race,Bot race winner (tier: Winner),https://code4rena.com/reports/2023-10-brahma
+lightchaser,Code4rena,"Brahma",2023-10-brahma,2023-10-13,2,17,19.15,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-10-brahma
+henry,Code4rena,"Brahma",2023-10-brahma,2023-10-13,3,17,19.15,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-10-brahma
+gasaxy,Code4rena,"Brahma",2023-10-brahma,2023-10-13,4,17,19.15,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-10-brahma
+znbotty,Code4rena,"Brahma",2023-10-brahma,2023-10-13,5,17,19.15,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-10-brahma
+pechenkata,Code4rena,"Brahma",2023-10-brahma,2023-10-13,6,17,19.15,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-10-brahma
+0x6980-bot,Code4rena,"Brahma",2023-10-brahma,2023-10-13,7,17,19.15,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-10-brahma
+mrshudson,Code4rena,"Brahma",2023-10-brahma,2023-10-13,8,17,19.15,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-10-brahma
+vuln-detector,Code4rena,"Brahma",2023-10-brahma,2023-10-13,9,17,19.15,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-10-brahma
+hound,Code4rena,"Brahma",2023-10-brahma,2023-10-13,10,17,19.15,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-10-brahma
+the-madaladinator,Code4rena,"Brahma",2023-10-brahma,2023-10-13,11,17,19.15,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-10-brahma
+tera,Code4rena,"Brahma",2023-10-brahma,2023-10-13,12,17,9.53,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-10-brahma
+auditbase,Code4rena,"Brahma",2023-10-brahma,2023-10-13,13,17,9.53,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-10-brahma
+gas-optimzeer,Code4rena,"Brahma",2023-10-brahma,2023-10-13,14,17,9.53,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-10-brahma
+c4lanky,Code4rena,"Brahma",2023-10-brahma,2023-10-13,15,17,,bot_race,Bot race (tier: C),https://code4rena.com/reports/2023-10-brahma
+sol2vuln,Code4rena,"Brahma",2023-10-brahma,2023-10-13,16,17,,bot_race,Bot race (tier: C),https://code4rena.com/reports/2023-10-brahma
+mangat,Code4rena,"Brahma",2023-10-brahma,2023-10-13,17,17,,bot_race,Bot race (tier: C),https://code4rena.com/reports/2023-10-brahma
+henry,Code4rena,"Wildcat",2023-10-wildcat,2023-10-16,1,18,592.00,bot_race,Bot race winner (tier: Winner),https://code4rena.com/reports/2023-10-wildcat
+0x6980-bot,Code4rena,"Wildcat",2023-10-wildcat,2023-10-16,2,18,75.90,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-10-wildcat
+mrshudson,Code4rena,"Wildcat",2023-10-wildcat,2023-10-16,3,18,75.90,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-10-wildcat
+the-madaladinator,Code4rena,"Wildcat",2023-10-wildcat,2023-10-16,4,18,75.90,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-10-wildcat
+tragedyotcommons,Code4rena,"Wildcat",2023-10-wildcat,2023-10-16,5,18,75.90,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-10-wildcat
+vuln-detector,Code4rena,"Wildcat",2023-10-wildcat,2023-10-16,6,18,75.90,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-10-wildcat
+pechenkata,Code4rena,"Wildcat",2023-10-wildcat,2023-10-16,7,18,75.90,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-10-wildcat
+graphium-bot,Code4rena,"Wildcat",2023-10-wildcat,2023-10-16,8,18,6.65,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-10-wildcat
+hound,Code4rena,"Wildcat",2023-10-wildcat,2023-10-16,9,18,6.65,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-10-wildcat
+lightchaser,Code4rena,"Wildcat",2023-10-wildcat,2023-10-16,10,18,6.65,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-10-wildcat
+tera,Code4rena,"Wildcat",2023-10-wildcat,2023-10-16,11,18,6.65,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-10-wildcat
+c4lanky,Code4rena,"Wildcat",2023-10-wildcat,2023-10-16,12,18,6.65,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-10-wildcat
+znbotty,Code4rena,"Wildcat",2023-10-wildcat,2023-10-16,13,18,6.65,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-10-wildcat
+gasaxy,Code4rena,"Wildcat",2023-10-wildcat,2023-10-16,14,18,6.65,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-10-wildcat
+auditbase,Code4rena,"Wildcat",2023-10-wildcat,2023-10-16,15,18,6.65,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-10-wildcat
+mangat,Code4rena,"Wildcat",2023-10-wildcat,2023-10-16,16,18,,bot_race,Bot race (tier: C),https://code4rena.com/reports/2023-10-wildcat
+gas-optimzeer,Code4rena,"Wildcat",2023-10-wildcat,2023-10-16,17,18,,bot_race,Bot race (tier: C),https://code4rena.com/reports/2023-10-wildcat
+physetermacrocephalus,Code4rena,"Wildcat",2023-10-wildcat,2023-10-16,18,18,,bot_race,Bot race (tier: C),https://code4rena.com/reports/2023-10-wildcat
+vuln-detector,Code4rena,"Open Dollar",2023-10-opendollar,2023-10-18,1,12,426.16,bot_race,Bot race winner (tier: Winner),https://code4rena.com/reports/2023-10-opendollar
+mrshudson,Code4rena,"Open Dollar",2023-10-opendollar,2023-10-18,2,12,65.56,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-10-opendollar
+hound,Code4rena,"Open Dollar",2023-10-opendollar,2023-10-18,3,12,65.56,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-10-opendollar
+the-madaladinator,Code4rena,"Open Dollar",2023-10-opendollar,2023-10-18,4,12,65.56,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-10-opendollar
+pechenkata,Code4rena,"Open Dollar",2023-10-opendollar,2023-10-18,5,12,65.56,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-10-opendollar
+henry,Code4rena,"Open Dollar",2023-10-opendollar,2023-10-18,6,12,65.56,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-10-opendollar
+0x6980-bot,Code4rena,"Open Dollar",2023-10-opendollar,2023-10-18,7,12,11.55,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-10-opendollar
+lightchaser,Code4rena,"Open Dollar",2023-10-opendollar,2023-10-18,8,12,11.55,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-10-opendollar
+graphium-bot,Code4rena,"Open Dollar",2023-10-opendollar,2023-10-18,9,12,11.55,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-10-opendollar
+c4lanky,Code4rena,"Open Dollar",2023-10-opendollar,2023-10-18,10,12,11.55,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-10-opendollar
+auditbase,Code4rena,"Open Dollar",2023-10-opendollar,2023-10-18,11,12,,bot_race,Bot race (tier: C),https://code4rena.com/reports/2023-10-opendollar
+gas-optimzeer,Code4rena,"Open Dollar",2023-10-opendollar,2023-10-18,12,12,,bot_race,Bot race (tier: C),https://code4rena.com/reports/2023-10-opendollar
+mrshudson,Code4rena,"Ethena",2023-10-ethena,2023-10-24,1,18,224.35,bot_race,Bot race winner (tier: Winner),https://code4rena.com/reports/2023-10-ethena
+hound,Code4rena,"Ethena",2023-10-ethena,2023-10-24,2,18,15.69,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-10-ethena
+lightchaser,Code4rena,"Ethena",2023-10-ethena,2023-10-24,3,18,15.69,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-10-ethena
+pechenkata,Code4rena,"Ethena",2023-10-ethena,2023-10-24,4,18,15.69,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-10-ethena
+tera,Code4rena,"Ethena",2023-10-ethena,2023-10-24,5,18,15.69,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-10-ethena
+auditbase,Code4rena,"Ethena",2023-10-ethena,2023-10-24,6,18,15.69,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-10-ethena
+sol2vuln,Code4rena,"Ethena",2023-10-ethena,2023-10-24,7,18,15.69,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-10-ethena
+vuln-detector,Code4rena,"Ethena",2023-10-ethena,2023-10-24,8,18,15.69,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-10-ethena
+henry,Code4rena,"Ethena",2023-10-ethena,2023-10-24,9,18,15.69,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-10-ethena
+selucreh,Code4rena,"Ethena",2023-10-ethena,2023-10-24,10,18,15.69,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-10-ethena
+ubl4nk-bot,Code4rena,"Ethena",2023-10-ethena,2023-10-24,11,18,15.69,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-10-ethena
+the-madaladinator,Code4rena,"Ethena",2023-10-ethena,2023-10-24,12,18,15.69,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-10-ethena
+graphium-bot,Code4rena,"Ethena",2023-10-ethena,2023-10-24,13,18,5.09,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-10-ethena
+gasaxy,Code4rena,"Ethena",2023-10-ethena,2023-10-24,14,18,5.09,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-10-ethena
+0x6980-bot,Code4rena,"Ethena",2023-10-ethena,2023-10-24,15,18,5.09,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-10-ethena
+dervish,Code4rena,"Ethena",2023-10-ethena,2023-10-24,16,18,5.09,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-10-ethena
+znbotty,Code4rena,"Ethena",2023-10-ethena,2023-10-24,17,18,5.09,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-10-ethena
+dragonfly,Code4rena,"Ethena",2023-10-ethena,2023-10-24,18,18,,bot_race,Bot race (tier: C),https://code4rena.com/reports/2023-10-ethena
+hound,Code4rena,"NextGen",2023-10-nextgen,2023-10-30,1,19,520.93,bot_race,Bot race winner (tier: Winner),https://code4rena.com/reports/2023-10-nextgen
+lightchaser,Code4rena,"NextGen",2023-10-nextgen,2023-10-30,2,19,57.24,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-10-nextgen
+henry,Code4rena,"NextGen",2023-10-nextgen,2023-10-30,3,19,57.24,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-10-nextgen
+pechenkata,Code4rena,"NextGen",2023-10-nextgen,2023-10-30,4,19,57.24,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-10-nextgen
+vuln-detector,Code4rena,"NextGen",2023-10-nextgen,2023-10-30,5,19,57.24,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-10-nextgen
+tragedyotcommons,Code4rena,"NextGen",2023-10-nextgen,2023-10-30,6,19,57.24,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-10-nextgen
+the-madaladinator,Code4rena,"NextGen",2023-10-nextgen,2023-10-30,7,19,57.24,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-10-nextgen
+selucreh,Code4rena,"NextGen",2023-10-nextgen,2023-10-30,8,19,57.24,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-10-nextgen
+mrshudson,Code4rena,"NextGen",2023-10-nextgen,2023-10-30,9,19,5.24,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-10-nextgen
+graphium-bot,Code4rena,"NextGen",2023-10-nextgen,2023-10-30,10,19,5.24,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-10-nextgen
+tera,Code4rena,"NextGen",2023-10-nextgen,2023-10-30,11,19,5.24,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-10-nextgen
+znbotty,Code4rena,"NextGen",2023-10-nextgen,2023-10-30,12,19,5.24,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-10-nextgen
+dragonfly,Code4rena,"NextGen",2023-10-nextgen,2023-10-30,13,19,5.24,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-10-nextgen
+0x6980-bot,Code4rena,"NextGen",2023-10-nextgen,2023-10-30,14,19,5.24,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-10-nextgen
+auditbase,Code4rena,"NextGen",2023-10-nextgen,2023-10-30,15,19,5.24,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-10-nextgen
+ubl4nk-bot,Code4rena,"NextGen",2023-10-nextgen,2023-10-30,16,19,5.24,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-10-nextgen
+sol2vuln,Code4rena,"NextGen",2023-10-nextgen,2023-10-30,17,19,5.24,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-10-nextgen
+dervish,Code4rena,"NextGen",2023-10-nextgen,2023-10-30,18,19,,bot_race,Bot race (tier: C),https://code4rena.com/reports/2023-10-nextgen
+gasaxy,Code4rena,"NextGen",2023-10-nextgen,2023-10-30,19,19,,bot_race,Bot race (tier: C),https://code4rena.com/reports/2023-10-nextgen
+henry,Code4rena,"Party Protocol",2023-10-party,2023-10-31,1,17,585.92,bot_race,Bot race winner (tier: Winner),https://code4rena.com/reports/2023-10-party
+0x6980-bot,Code4rena,"Party Protocol",2023-10-party,2023-10-31,2,17,75.12,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-10-party
+mrshudson,Code4rena,"Party Protocol",2023-10-party,2023-10-31,3,17,75.12,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-10-party
+pechenkata,Code4rena,"Party Protocol",2023-10-party,2023-10-31,4,17,75.12,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-10-party
+lightchaser,Code4rena,"Party Protocol",2023-10-party,2023-10-31,5,17,75.12,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-10-party
+selucreh,Code4rena,"Party Protocol",2023-10-party,2023-10-31,6,17,75.12,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-10-party
+the-madaladinator,Code4rena,"Party Protocol",2023-10-party,2023-10-31,7,17,75.12,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-10-party
+ubl4nk-bot,Code4rena,"Party Protocol",2023-10-party,2023-10-31,8,17,5.68,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-10-party
+hound,Code4rena,"Party Protocol",2023-10-party,2023-10-31,9,17,5.68,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-10-party
+vuln-detector,Code4rena,"Party Protocol",2023-10-party,2023-10-31,10,17,5.68,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-10-party
+znbotty,Code4rena,"Party Protocol",2023-10-party,2023-10-31,11,17,5.68,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-10-party
+graphium-bot,Code4rena,"Party Protocol",2023-10-party,2023-10-31,12,17,5.68,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-10-party
+sol2vuln,Code4rena,"Party Protocol",2023-10-party,2023-10-31,13,17,5.68,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-10-party
+gasaxy,Code4rena,"Party Protocol",2023-10-party,2023-10-31,14,17,5.68,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-10-party
+dervish,Code4rena,"Party Protocol",2023-10-party,2023-10-31,15,17,5.68,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-10-party
+dragonfly,Code4rena,"Party Protocol",2023-10-party,2023-10-31,16,17,5.68,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-10-party
+auditbase,Code4rena,"Party Protocol",2023-10-party,2023-10-31,17,17,,bot_race,Bot race (tier: C),https://code4rena.com/reports/2023-10-party
+hound,Code4rena,"Kelp DAO",2023-11-kelp,2023-11-10,1,16,206.34,bot_race,Bot race winner (tier: Winner),https://code4rena.com/reports/2023-11-kelp
+mrshudson,Code4rena,"Kelp DAO",2023-11-kelp,2023-11-10,2,16,17.64,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-11-kelp
+henry,Code4rena,"Kelp DAO",2023-11-kelp,2023-11-10,3,16,17.64,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-11-kelp
+0x6980-bot,Code4rena,"Kelp DAO",2023-11-kelp,2023-11-10,4,16,17.64,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-11-kelp
+tera,Code4rena,"Kelp DAO",2023-11-kelp,2023-11-10,5,16,17.64,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-11-kelp
+the-madaladinator,Code4rena,"Kelp DAO",2023-11-kelp,2023-11-10,6,16,17.64,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-11-kelp
+lightchaser,Code4rena,"Kelp DAO",2023-11-kelp,2023-11-10,7,16,17.64,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-11-kelp
+selucreh,Code4rena,"Kelp DAO",2023-11-kelp,2023-11-10,8,16,17.64,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-11-kelp
+pechenkata,Code4rena,"Kelp DAO",2023-11-kelp,2023-11-10,9,16,17.64,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-11-kelp
+vuln-detector,Code4rena,"Kelp DAO",2023-11-kelp,2023-11-10,10,16,17.64,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-11-kelp
+dragonfly,Code4rena,"Kelp DAO",2023-11-kelp,2023-11-10,11,16,5.63,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-11-kelp
+graphium-bot,Code4rena,"Kelp DAO",2023-11-kelp,2023-11-10,12,16,5.63,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-11-kelp
+dervish,Code4rena,"Kelp DAO",2023-11-kelp,2023-11-10,13,16,5.63,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-11-kelp
+ubl4nk-bot,Code4rena,"Kelp DAO",2023-11-kelp,2023-11-10,14,16,5.63,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-11-kelp
+sol2vuln,Code4rena,"Kelp DAO",2023-11-kelp,2023-11-10,15,16,,bot_race,Bot race (tier: C),https://code4rena.com/reports/2023-11-kelp
+auditbase,Code4rena,"Kelp DAO",2023-11-kelp,2023-11-10,16,16,,bot_race,Bot race (tier: C),https://code4rena.com/reports/2023-11-kelp
+henry,Code4rena,"Canto",2023-11-canto,2023-11-13,1,18,232.05,bot_race,Bot race winner (tier: Winner),https://code4rena.com/reports/2023-11-canto
+0x6980-bot,Code4rena,"Canto",2023-11-canto,2023-11-13,2,18,29.75,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-11-canto
+selucreh,Code4rena,"Canto",2023-11-canto,2023-11-13,3,18,29.75,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-11-canto
+pechenkata,Code4rena,"Canto",2023-11-canto,2023-11-13,4,18,29.75,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-11-canto
+vuln-detector,Code4rena,"Canto",2023-11-canto,2023-11-13,5,18,29.75,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-11-canto
+tragedyotcommons,Code4rena,"Canto",2023-11-canto,2023-11-13,6,18,29.75,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-11-canto
+mrshudson,Code4rena,"Canto",2023-11-canto,2023-11-13,7,18,29.75,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-11-canto
+ubl4nk-bot,Code4rena,"Canto",2023-11-canto,2023-11-13,8,18,1.97,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-11-canto
+gasaxy,Code4rena,"Canto",2023-11-canto,2023-11-13,9,18,1.97,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-11-canto
+hound,Code4rena,"Canto",2023-11-canto,2023-11-13,10,18,1.97,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-11-canto
+graphium-bot,Code4rena,"Canto",2023-11-canto,2023-11-13,11,18,1.97,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-11-canto
+tera,Code4rena,"Canto",2023-11-canto,2023-11-13,12,18,1.97,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-11-canto
+the-madaladinator,Code4rena,"Canto",2023-11-canto,2023-11-13,13,18,1.97,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-11-canto
+dragonfly,Code4rena,"Canto",2023-11-canto,2023-11-13,14,18,1.97,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-11-canto
+znbotty,Code4rena,"Canto",2023-11-canto,2023-11-13,15,18,1.97,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-11-canto
+auditbase,Code4rena,"Canto",2023-11-canto,2023-11-13,16,18,1.97,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-11-canto
+lightchaser,Code4rena,"Canto",2023-11-canto,2023-11-13,17,18,1.97,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-11-canto
+dervish,Code4rena,"Canto",2023-11-canto,2023-11-13,18,18,,bot_race,Bot race (tier: C),https://code4rena.com/reports/2023-11-canto
+tragedyotcommons,Code4rena,"Panoptic",2023-11-panoptic,2023-11-27,1,17,668.63,bot_race,Bot race winner (tier: Winner),https://code4rena.com/reports/2023-11-panoptic
+henry,Code4rena,"Panoptic",2023-11-panoptic,2023-11-27,2,17,102.87,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-11-panoptic
+ubl4nk-bot,Code4rena,"Panoptic",2023-11-panoptic,2023-11-27,3,17,102.87,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-11-panoptic
+tera,Code4rena,"Panoptic",2023-11-panoptic,2023-11-27,4,17,102.87,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-11-panoptic
+0x6980-bot,Code4rena,"Panoptic",2023-11-panoptic,2023-11-27,5,17,102.87,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-11-panoptic
+hound,Code4rena,"Panoptic",2023-11-panoptic,2023-11-27,6,17,102.87,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-11-panoptic
+vuln-detector,Code4rena,"Panoptic",2023-11-panoptic,2023-11-27,7,17,6.29,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-11-panoptic
+the-madaladinator,Code4rena,"Panoptic",2023-11-panoptic,2023-11-27,8,17,6.29,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-11-panoptic
+mrshudson,Code4rena,"Panoptic",2023-11-panoptic,2023-11-27,9,17,6.29,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-11-panoptic
+lightchaser,Code4rena,"Panoptic",2023-11-panoptic,2023-11-27,10,17,6.29,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-11-panoptic
+gasaxy,Code4rena,"Panoptic",2023-11-panoptic,2023-11-27,11,17,6.29,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-11-panoptic
+znbotty,Code4rena,"Panoptic",2023-11-panoptic,2023-11-27,12,17,6.29,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-11-panoptic
+dragonfly,Code4rena,"Panoptic",2023-11-panoptic,2023-11-27,13,17,6.29,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-11-panoptic
+selucreh,Code4rena,"Panoptic",2023-11-panoptic,2023-11-27,14,17,6.29,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-11-panoptic
+pechenkata,Code4rena,"Panoptic",2023-11-panoptic,2023-11-27,15,17,6.29,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-11-panoptic
+graphium-bot,Code4rena,"Panoptic",2023-11-panoptic,2023-11-27,16,17,,bot_race,Bot race (tier: C),https://code4rena.com/reports/2023-11-panoptic
+auditbase,Code4rena,"Panoptic",2023-11-panoptic,2023-11-27,17,17,,bot_race,Bot race (tier: C),https://code4rena.com/reports/2023-11-panoptic
+the-madaladinator,Code4rena,"Shell Protocol",2023-11-shell,2023-11-30,1,18,238.50,bot_race,Bot race winner (tier: Winner),https://code4rena.com/reports/2023-11-shell
+0x6980-bot,Code4rena,"Shell Protocol",2023-11-shell,2023-11-30,2,18,18.35,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-11-shell
+lightchaser,Code4rena,"Shell Protocol",2023-11-shell,2023-11-30,3,18,18.35,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-11-shell
+dragonfly,Code4rena,"Shell Protocol",2023-11-shell,2023-11-30,4,18,18.35,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-11-shell
+hound,Code4rena,"Shell Protocol",2023-11-shell,2023-11-30,5,18,18.35,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-11-shell
+mrshudson,Code4rena,"Shell Protocol",2023-11-shell,2023-11-30,6,18,18.35,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-11-shell
+tera,Code4rena,"Shell Protocol",2023-11-shell,2023-11-30,7,18,18.35,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-11-shell
+henry,Code4rena,"Shell Protocol",2023-11-shell,2023-11-30,8,18,18.35,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-11-shell
+pechenkata,Code4rena,"Shell Protocol",2023-11-shell,2023-11-30,9,18,18.35,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-11-shell
+ubl4nk-bot,Code4rena,"Shell Protocol",2023-11-shell,2023-11-30,10,18,18.35,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-11-shell
+vuln-detector,Code4rena,"Shell Protocol",2023-11-shell,2023-11-30,11,18,18.35,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-11-shell
+znbotty,Code4rena,"Shell Protocol",2023-11-shell,2023-11-30,12,18,3.61,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-11-shell
+outis,Code4rena,"Shell Protocol",2023-11-shell,2023-11-30,13,18,3.61,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-11-shell
+dervish,Code4rena,"Shell Protocol",2023-11-shell,2023-11-30,14,18,3.61,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-11-shell
+selucreh,Code4rena,"Shell Protocol",2023-11-shell,2023-11-30,15,18,3.61,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-11-shell
+auditbase,Code4rena,"Shell Protocol",2023-11-shell,2023-11-30,16,18,3.61,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-11-shell
+gasaxy,Code4rena,"Shell Protocol",2023-11-shell,2023-11-30,17,18,3.61,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-11-shell
+cygnet,Code4rena,"Shell Protocol",2023-11-shell,2023-11-30,18,18,3.61,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-11-shell
+henry,Code4rena,"Ethereum Credit Guild",2023-12-ethereumcreditguild,2023-12-11,1,16,797.70,bot_race,Bot race winner (tier: Winner),https://code4rena.com/reports/2023-12-ethereumcreditguild
+tera,Code4rena,"Ethereum Credit Guild",2023-12-ethereumcreditguild,2023-12-11,2,16,87.66,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-12-ethereumcreditguild
+mrshudson,Code4rena,"Ethereum Credit Guild",2023-12-ethereumcreditguild,2023-12-11,3,16,87.66,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-12-ethereumcreditguild
+tragedyotcommons,Code4rena,"Ethereum Credit Guild",2023-12-ethereumcreditguild,2023-12-11,4,16,87.66,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-12-ethereumcreditguild
+vuln-detector,Code4rena,"Ethereum Credit Guild",2023-12-ethereumcreditguild,2023-12-11,5,16,87.66,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-12-ethereumcreditguild
+0x6980-bot,Code4rena,"Ethereum Credit Guild",2023-12-ethereumcreditguild,2023-12-11,6,16,87.66,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-12-ethereumcreditguild
+ubl4nk-bot,Code4rena,"Ethereum Credit Guild",2023-12-ethereumcreditguild,2023-12-11,7,16,87.66,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-12-ethereumcreditguild
+selucreh,Code4rena,"Ethereum Credit Guild",2023-12-ethereumcreditguild,2023-12-11,8,16,87.66,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-12-ethereumcreditguild
+pechenkata,Code4rena,"Ethereum Credit Guild",2023-12-ethereumcreditguild,2023-12-11,9,16,10.86,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-12-ethereumcreditguild
+dervish,Code4rena,"Ethereum Credit Guild",2023-12-ethereumcreditguild,2023-12-11,10,16,10.86,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-12-ethereumcreditguild
+the-madaladinator,Code4rena,"Ethereum Credit Guild",2023-12-ethereumcreditguild,2023-12-11,11,16,10.86,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-12-ethereumcreditguild
+outis,Code4rena,"Ethereum Credit Guild",2023-12-ethereumcreditguild,2023-12-11,12,16,10.86,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-12-ethereumcreditguild
+cygnet,Code4rena,"Ethereum Credit Guild",2023-12-ethereumcreditguild,2023-12-11,13,16,10.86,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-12-ethereumcreditguild
+dragonfly,Code4rena,"Ethereum Credit Guild",2023-12-ethereumcreditguild,2023-12-11,14,16,10.86,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-12-ethereumcreditguild
+gasaxy,Code4rena,"Ethereum Credit Guild",2023-12-ethereumcreditguild,2023-12-11,15,16,10.86,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-12-ethereumcreditguild
+znbotty,Code4rena,"Ethereum Credit Guild",2023-12-ethereumcreditguild,2023-12-11,16,16,,bot_race,Bot race (tier: C),https://code4rena.com/reports/2023-12-ethereumcreditguild
+vuln-detector,Code4rena,"Revolution",2023-12-revolution,2023-12-13,1,16,229.25,bot_race,Bot race winner (tier: Winner),https://code4rena.com/reports/2023-12-revolution
+0x6980-bot,Code4rena,"Revolution",2023-12-revolution,2023-12-13,2,16,16.03,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-12-revolution
+lightchaser,Code4rena,"Revolution",2023-12-revolution,2023-12-13,3,16,16.03,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-12-revolution
+hound,Code4rena,"Revolution",2023-12-revolution,2023-12-13,4,16,16.03,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-12-revolution
+mrshudson,Code4rena,"Revolution",2023-12-revolution,2023-12-13,5,16,16.03,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-12-revolution
+ubl4nk-bot,Code4rena,"Revolution",2023-12-revolution,2023-12-13,6,16,16.03,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-12-revolution
+the-madaladinator,Code4rena,"Revolution",2023-12-revolution,2023-12-13,7,16,16.03,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-12-revolution
+pechenkata,Code4rena,"Revolution",2023-12-revolution,2023-12-13,8,16,16.03,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-12-revolution
+henry,Code4rena,"Revolution",2023-12-revolution,2023-12-13,9,16,16.03,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-12-revolution
+selucreh,Code4rena,"Revolution",2023-12-revolution,2023-12-13,10,16,16.03,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-12-revolution
+auditbase,Code4rena,"Revolution",2023-12-revolution,2023-12-13,11,16,16.03,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-12-revolution
+dragonfly,Code4rena,"Revolution",2023-12-revolution,2023-12-13,12,16,16.03,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-12-revolution
+cygnet,Code4rena,"Revolution",2023-12-revolution,2023-12-13,13,16,9.00,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-12-revolution
+tera,Code4rena,"Revolution",2023-12-revolution,2023-12-13,14,16,9.00,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-12-revolution
+gasaxy,Code4rena,"Revolution",2023-12-revolution,2023-12-13,15,16,9.00,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-12-revolution
+outis,Code4rena,"Revolution",2023-12-revolution,2023-12-13,16,16,,bot_race,Bot race (tier: C),https://code4rena.com/reports/2023-12-revolution
+vuln-detector,Code4rena,"Olas",2023-12-olas,2023-12-21,1,12,1037.09,bot_race,Bot race winner (tier: Winner),https://code4rena.com/reports/2023-12-olas
+cygnet,Code4rena,"Olas",2023-12-olas,2023-12-21,2,12,159.55,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-12-olas
+lightchaser,Code4rena,"Olas",2023-12-olas,2023-12-21,3,12,159.55,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-12-olas
+pechenkata,Code4rena,"Olas",2023-12-olas,2023-12-21,4,12,159.55,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-12-olas
+hound,Code4rena,"Olas",2023-12-olas,2023-12-21,5,12,159.55,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-12-olas
+selucreh,Code4rena,"Olas",2023-12-olas,2023-12-21,6,12,159.55,bot_race,Bot race (tier: A),https://code4rena.com/reports/2023-12-olas
+mrshudson,Code4rena,"Olas",2023-12-olas,2023-12-21,7,12,16.64,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-12-olas
+dragonfly,Code4rena,"Olas",2023-12-olas,2023-12-21,8,12,16.64,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-12-olas
+dervish,Code4rena,"Olas",2023-12-olas,2023-12-21,9,12,16.64,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-12-olas
+0x6980-bot,Code4rena,"Olas",2023-12-olas,2023-12-21,10,12,16.64,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-12-olas
+znbotty,Code4rena,"Olas",2023-12-olas,2023-12-21,11,12,16.64,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-12-olas
+ubl4nk-bot,Code4rena,"Olas",2023-12-olas,2023-12-21,12,12,16.64,bot_race,Bot race (tier: B),https://code4rena.com/reports/2023-12-olas
+lightchaser,Code4rena,"Curves",2024-01-curves,2024-01-08,1,18,243.49,bot_race,Bot race winner (tier: Winner),https://code4rena.com/reports/2024-01-curves
+the-madaladinator,Code4rena,"Curves",2024-01-curves,2024-01-08,2,18,18.73,bot_race,Bot race (tier: A),https://code4rena.com/reports/2024-01-curves
+pechenkata,Code4rena,"Curves",2024-01-curves,2024-01-08,3,18,18.73,bot_race,Bot race (tier: A),https://code4rena.com/reports/2024-01-curves
+mrshudson,Code4rena,"Curves",2024-01-curves,2024-01-08,4,18,18.73,bot_race,Bot race (tier: A),https://code4rena.com/reports/2024-01-curves
+tera,Code4rena,"Curves",2024-01-curves,2024-01-08,5,18,18.73,bot_race,Bot race (tier: A),https://code4rena.com/reports/2024-01-curves
+henry,Code4rena,"Curves",2024-01-curves,2024-01-08,6,18,18.73,bot_race,Bot race (tier: A),https://code4rena.com/reports/2024-01-curves
+vuln-detector,Code4rena,"Curves",2024-01-curves,2024-01-08,7,18,18.73,bot_race,Bot race (tier: A),https://code4rena.com/reports/2024-01-curves
+hound,Code4rena,"Curves",2024-01-curves,2024-01-08,8,18,18.73,bot_race,Bot race (tier: A),https://code4rena.com/reports/2024-01-curves
+znbotty,Code4rena,"Curves",2024-01-curves,2024-01-08,9,18,18.73,bot_race,Bot race (tier: A),https://code4rena.com/reports/2024-01-curves
+cygnet,Code4rena,"Curves",2024-01-curves,2024-01-08,10,18,18.73,bot_race,Bot race (tier: A),https://code4rena.com/reports/2024-01-curves
+selucreh,Code4rena,"Curves",2024-01-curves,2024-01-08,11,18,18.73,bot_race,Bot race (tier: A),https://code4rena.com/reports/2024-01-curves
+dragonfly,Code4rena,"Curves",2024-01-curves,2024-01-08,12,18,5.34,bot_race,Bot race (tier: B),https://code4rena.com/reports/2024-01-curves
+0x6980-bot,Code4rena,"Curves",2024-01-curves,2024-01-08,13,18,5.34,bot_race,Bot race (tier: B),https://code4rena.com/reports/2024-01-curves
+ubl4nk-bot,Code4rena,"Curves",2024-01-curves,2024-01-08,14,18,5.34,bot_race,Bot race (tier: B),https://code4rena.com/reports/2024-01-curves
+dervish,Code4rena,"Curves",2024-01-curves,2024-01-08,15,18,5.34,bot_race,Bot race (tier: B),https://code4rena.com/reports/2024-01-curves
+auditbase,Code4rena,"Curves",2024-01-curves,2024-01-08,16,18,5.34,bot_race,Bot race (tier: B),https://code4rena.com/reports/2024-01-curves
+gasaxy,Code4rena,"Curves",2024-01-curves,2024-01-08,17,18,,bot_race,Bot race (tier: C),https://code4rena.com/reports/2024-01-curves
+outis,Code4rena,"Curves",2024-01-curves,2024-01-08,18,18,,bot_race,Bot race (tier: C),https://code4rena.com/reports/2024-01-curves
+lightchaser,Code4rena,"reNFT",2024-01-renft,2024-01-08,1,20,429.85,bot_race,Bot race winner (tier: Winner),https://code4rena.com/reports/2024-01-renft
+tragedyotcommons,Code4rena,"reNFT",2024-01-renft,2024-01-08,2,20,36.74,bot_race,Bot race (tier: A),https://code4rena.com/reports/2024-01-renft
+pechenkata,Code4rena,"reNFT",2024-01-renft,2024-01-08,3,20,36.74,bot_race,Bot race (tier: A),https://code4rena.com/reports/2024-01-renft
+selucreh,Code4rena,"reNFT",2024-01-renft,2024-01-08,4,20,36.74,bot_race,Bot race (tier: A),https://code4rena.com/reports/2024-01-renft
+vuln-detector,Code4rena,"reNFT",2024-01-renft,2024-01-08,5,20,36.74,bot_race,Bot race (tier: A),https://code4rena.com/reports/2024-01-renft
+henry,Code4rena,"reNFT",2024-01-renft,2024-01-08,6,20,36.74,bot_race,Bot race (tier: A),https://code4rena.com/reports/2024-01-renft
+ubl4nk-bot,Code4rena,"reNFT",2024-01-renft,2024-01-08,7,20,36.74,bot_race,Bot race (tier: A),https://code4rena.com/reports/2024-01-renft
+mrshudson,Code4rena,"reNFT",2024-01-renft,2024-01-08,8,20,36.74,bot_race,Bot race (tier: A),https://code4rena.com/reports/2024-01-renft
+tera,Code4rena,"reNFT",2024-01-renft,2024-01-08,9,20,36.74,bot_race,Bot race (tier: A),https://code4rena.com/reports/2024-01-renft
+hound,Code4rena,"reNFT",2024-01-renft,2024-01-08,10,20,36.74,bot_race,Bot race (tier: A),https://code4rena.com/reports/2024-01-renft
+graphium-bot,Code4rena,"reNFT",2024-01-renft,2024-01-08,11,20,5.38,bot_race,Bot race (tier: B),https://code4rena.com/reports/2024-01-renft
+auditbase,Code4rena,"reNFT",2024-01-renft,2024-01-08,12,20,5.38,bot_race,Bot race (tier: B),https://code4rena.com/reports/2024-01-renft
+outis,Code4rena,"reNFT",2024-01-renft,2024-01-08,13,20,5.38,bot_race,Bot race (tier: B),https://code4rena.com/reports/2024-01-renft
+the-madaladinator,Code4rena,"reNFT",2024-01-renft,2024-01-08,14,20,5.38,bot_race,Bot race (tier: B),https://code4rena.com/reports/2024-01-renft
+0x6980-bot,Code4rena,"reNFT",2024-01-renft,2024-01-08,15,20,5.38,bot_race,Bot race (tier: B),https://code4rena.com/reports/2024-01-renft
+cygnet,Code4rena,"reNFT",2024-01-renft,2024-01-08,16,20,5.38,bot_race,Bot race (tier: B),https://code4rena.com/reports/2024-01-renft
+dragonfly,Code4rena,"reNFT",2024-01-renft,2024-01-08,17,20,5.38,bot_race,Bot race (tier: B),https://code4rena.com/reports/2024-01-renft
+znbotty,Code4rena,"reNFT",2024-01-renft,2024-01-08,18,20,5.38,bot_race,Bot race (tier: B),https://code4rena.com/reports/2024-01-renft
+gasaxy,Code4rena,"reNFT",2024-01-renft,2024-01-08,19,20,,bot_race,Bot race (tier: C),https://code4rena.com/reports/2024-01-renft
+dervish,Code4rena,"reNFT",2024-01-renft,2024-01-08,20,20,,bot_race,Bot race (tier: C),https://code4rena.com/reports/2024-01-renft
+the-madaladinator,Code4rena,"Salty",2024-01-salty,2024-01-16,1,19,633.14,bot_race,Bot race winner (tier: Winner),https://code4rena.com/reports/2024-01-salty
+znbotty,Code4rena,"Salty",2024-01-salty,2024-01-16,2,19,60.88,bot_race,Bot race (tier: A),https://code4rena.com/reports/2024-01-salty
+lightchaser,Code4rena,"Salty",2024-01-salty,2024-01-16,3,19,60.88,bot_race,Bot race (tier: A),https://code4rena.com/reports/2024-01-salty
+hound,Code4rena,"Salty",2024-01-salty,2024-01-16,4,19,60.88,bot_race,Bot race (tier: A),https://code4rena.com/reports/2024-01-salty
+mrshudson,Code4rena,"Salty",2024-01-salty,2024-01-16,5,19,60.88,bot_race,Bot race (tier: A),https://code4rena.com/reports/2024-01-salty
+selucreh,Code4rena,"Salty",2024-01-salty,2024-01-16,6,19,60.88,bot_race,Bot race (tier: A),https://code4rena.com/reports/2024-01-salty
+tragedyotcommons,Code4rena,"Salty",2024-01-salty,2024-01-16,7,19,60.88,bot_race,Bot race (tier: A),https://code4rena.com/reports/2024-01-salty
+pechenkata,Code4rena,"Salty",2024-01-salty,2024-01-16,8,19,60.88,bot_race,Bot race (tier: A),https://code4rena.com/reports/2024-01-salty
+dragonfly,Code4rena,"Salty",2024-01-salty,2024-01-16,9,19,60.88,bot_race,Bot race (tier: A),https://code4rena.com/reports/2024-01-salty
+auditbase,Code4rena,"Salty",2024-01-salty,2024-01-16,10,19,8.89,bot_race,Bot race (tier: B),https://code4rena.com/reports/2024-01-salty
+henry,Code4rena,"Salty",2024-01-salty,2024-01-16,11,19,8.89,bot_race,Bot race (tier: B),https://code4rena.com/reports/2024-01-salty
+tera,Code4rena,"Salty",2024-01-salty,2024-01-16,12,19,8.89,bot_race,Bot race (tier: B),https://code4rena.com/reports/2024-01-salty
+cygnet,Code4rena,"Salty",2024-01-salty,2024-01-16,13,19,8.89,bot_race,Bot race (tier: B),https://code4rena.com/reports/2024-01-salty
+graphium-bot,Code4rena,"Salty",2024-01-salty,2024-01-16,14,19,8.89,bot_race,Bot race (tier: B),https://code4rena.com/reports/2024-01-salty
+vuln-detector,Code4rena,"Salty",2024-01-salty,2024-01-16,15,19,8.89,bot_race,Bot race (tier: B),https://code4rena.com/reports/2024-01-salty
+outis,Code4rena,"Salty",2024-01-salty,2024-01-16,16,19,8.89,bot_race,Bot race (tier: B),https://code4rena.com/reports/2024-01-salty
+gasaxy,Code4rena,"Salty",2024-01-salty,2024-01-16,17,19,,bot_race,Bot race (tier: C),https://code4rena.com/reports/2024-01-salty
+dervish,Code4rena,"Salty",2024-01-salty,2024-01-16,18,19,,bot_race,Bot race (tier: C),https://code4rena.com/reports/2024-01-salty
+ubl4nk-bot,Code4rena,"Salty",2024-01-salty,2024-01-16,19,19,,bot_race,Bot race (tier: C),https://code4rena.com/reports/2024-01-salty
+vuln-detector,Code4rena,"Decent",2024-01-decent,2024-01-19,1,17,260.53,bot_race,Bot race winner (tier: Winner),https://code4rena.com/reports/2024-01-decent
+lightchaser,Code4rena,"Decent",2024-01-decent,2024-01-19,2,17,22.27,bot_race,Bot race (tier: A),https://code4rena.com/reports/2024-01-decent
+mrshudson,Code4rena,"Decent",2024-01-decent,2024-01-19,3,17,22.27,bot_race,Bot race (tier: A),https://code4rena.com/reports/2024-01-decent
+selucreh,Code4rena,"Decent",2024-01-decent,2024-01-19,4,17,22.27,bot_race,Bot race (tier: A),https://code4rena.com/reports/2024-01-decent
+cygnet,Code4rena,"Decent",2024-01-decent,2024-01-19,5,17,22.27,bot_race,Bot race (tier: A),https://code4rena.com/reports/2024-01-decent
+pechenkata,Code4rena,"Decent",2024-01-decent,2024-01-19,6,17,22.27,bot_race,Bot race (tier: A),https://code4rena.com/reports/2024-01-decent
+the-madaladinator,Code4rena,"Decent",2024-01-decent,2024-01-19,7,17,22.27,bot_race,Bot race (tier: A),https://code4rena.com/reports/2024-01-decent
+henry,Code4rena,"Decent",2024-01-decent,2024-01-19,8,17,22.27,bot_race,Bot race (tier: A),https://code4rena.com/reports/2024-01-decent
+hound,Code4rena,"Decent",2024-01-decent,2024-01-19,9,17,22.27,bot_race,Bot race (tier: A),https://code4rena.com/reports/2024-01-decent
+tragedyotcommons,Code4rena,"Decent",2024-01-decent,2024-01-19,10,17,22.27,bot_race,Bot race (tier: A),https://code4rena.com/reports/2024-01-decent
+dragonfly,Code4rena,"Decent",2024-01-decent,2024-01-19,11,17,3.79,bot_race,Bot race (tier: B),https://code4rena.com/reports/2024-01-decent
+auditbase,Code4rena,"Decent",2024-01-decent,2024-01-19,12,17,3.79,bot_race,Bot race (tier: B),https://code4rena.com/reports/2024-01-decent
+outis,Code4rena,"Decent",2024-01-decent,2024-01-19,13,17,3.79,bot_race,Bot race (tier: B),https://code4rena.com/reports/2024-01-decent
+znbotty,Code4rena,"Decent",2024-01-decent,2024-01-19,14,17,3.79,bot_race,Bot race (tier: B),https://code4rena.com/reports/2024-01-decent
+solidinspect,Code4rena,"Decent",2024-01-decent,2024-01-19,15,17,3.79,bot_race,Bot race (tier: B),https://code4rena.com/reports/2024-01-decent
+baudit,Code4rena,"Decent",2024-01-decent,2024-01-19,16,17,3.79,bot_race,Bot race (tier: B),https://code4rena.com/reports/2024-01-decent
+ubl4nk-bot,Code4rena,"Decent",2024-01-decent,2024-01-19,17,17,3.79,bot_race,Bot race (tier: B),https://code4rena.com/reports/2024-01-decent
+tragedyotcommons,Code4rena,"AI Arena",2024-02-ai-arena,2024-02-09,1,16,333.21,bot_race,Bot race winner (tier: Winner),https://code4rena.com/reports/2024-02-ai-arena
+mrshudson,Code4rena,"AI Arena",2024-02-ai-arena,2024-02-09,2,16,19.72,bot_race,Bot race (tier: A),https://code4rena.com/reports/2024-02-ai-arena
+lightchaser,Code4rena,"AI Arena",2024-02-ai-arena,2024-02-09,3,16,19.72,bot_race,Bot race (tier: A),https://code4rena.com/reports/2024-02-ai-arena
+vuln-detector,Code4rena,"AI Arena",2024-02-ai-arena,2024-02-09,4,16,19.72,bot_race,Bot race (tier: A),https://code4rena.com/reports/2024-02-ai-arena
+selucreh,Code4rena,"AI Arena",2024-02-ai-arena,2024-02-09,5,16,19.72,bot_race,Bot race (tier: A),https://code4rena.com/reports/2024-02-ai-arena
+pechenkata,Code4rena,"AI Arena",2024-02-ai-arena,2024-02-09,6,16,19.72,bot_race,Bot race (tier: A),https://code4rena.com/reports/2024-02-ai-arena
+tera,Code4rena,"AI Arena",2024-02-ai-arena,2024-02-09,7,16,19.72,bot_race,Bot race (tier: A),https://code4rena.com/reports/2024-02-ai-arena
+znbotty,Code4rena,"AI Arena",2024-02-ai-arena,2024-02-09,8,16,19.72,bot_race,Bot race (tier: A),https://code4rena.com/reports/2024-02-ai-arena
+ubl4nk-bot,Code4rena,"AI Arena",2024-02-ai-arena,2024-02-09,9,16,19.72,bot_race,Bot race (tier: A),https://code4rena.com/reports/2024-02-ai-arena
+henry,Code4rena,"AI Arena",2024-02-ai-arena,2024-02-09,10,16,19.72,bot_race,Bot race (tier: A),https://code4rena.com/reports/2024-02-ai-arena
+outis,Code4rena,"AI Arena",2024-02-ai-arena,2024-02-09,11,16,19.72,bot_race,Bot race (tier: A),https://code4rena.com/reports/2024-02-ai-arena
+cygnet,Code4rena,"AI Arena",2024-02-ai-arena,2024-02-09,12,16,19.72,bot_race,Bot race (tier: A),https://code4rena.com/reports/2024-02-ai-arena
+dragonfly,Code4rena,"AI Arena",2024-02-ai-arena,2024-02-09,13,16,19.72,bot_race,Bot race (tier: A),https://code4rena.com/reports/2024-02-ai-arena
+hound,Code4rena,"AI Arena",2024-02-ai-arena,2024-02-09,14,16,19.72,bot_race,Bot race (tier: A),https://code4rena.com/reports/2024-02-ai-arena
+solidinspect,Code4rena,"AI Arena",2024-02-ai-arena,2024-02-09,15,16,21.16,bot_race,Bot race (tier: B),https://code4rena.com/reports/2024-02-ai-arena
+baudit,Code4rena,"AI Arena",2024-02-ai-arena,2024-02-09,16,16,21.16,bot_race,Bot race (tier: B),https://code4rena.com/reports/2024-02-ai-arena
+tragedyotcommons,Code4rena,"Althea Liquid Infrastructure",2024-02-althea-liquid-infrastructure,2024-02-13,1,14,168.00,bot_race,Bot race winner (tier: Winner),https://code4rena.com/reports/2024-02-althea-liquid-infrastructure
+hound,Code4rena,"Althea Liquid Infrastructure",2024-02-althea-liquid-infrastructure,2024-02-13,2,14,12.92,bot_race,Bot race (tier: A),https://code4rena.com/reports/2024-02-althea-liquid-infrastructure
+baudit,Code4rena,"Althea Liquid Infrastructure",2024-02-althea-liquid-infrastructure,2024-02-13,3,14,12.92,bot_race,Bot race (tier: A),https://code4rena.com/reports/2024-02-althea-liquid-infrastructure
+lightchaser,Code4rena,"Althea Liquid Infrastructure",2024-02-althea-liquid-infrastructure,2024-02-13,4,14,12.92,bot_race,Bot race (tier: A),https://code4rena.com/reports/2024-02-althea-liquid-infrastructure
+selucreh,Code4rena,"Althea Liquid Infrastructure",2024-02-althea-liquid-infrastructure,2024-02-13,5,14,12.92,bot_race,Bot race (tier: A),https://code4rena.com/reports/2024-02-althea-liquid-infrastructure
+ubl4nk-bot,Code4rena,"Althea Liquid Infrastructure",2024-02-althea-liquid-infrastructure,2024-02-13,6,14,12.92,bot_race,Bot race (tier: A),https://code4rena.com/reports/2024-02-althea-liquid-infrastructure
+solidinspect,Code4rena,"Althea Liquid Infrastructure",2024-02-althea-liquid-infrastructure,2024-02-13,7,14,12.92,bot_race,Bot race (tier: A),https://code4rena.com/reports/2024-02-althea-liquid-infrastructure
+auditbase,Code4rena,"Althea Liquid Infrastructure",2024-02-althea-liquid-infrastructure,2024-02-13,8,14,12.92,bot_race,Bot race (tier: A),https://code4rena.com/reports/2024-02-althea-liquid-infrastructure
+mrshudson,Code4rena,"Althea Liquid Infrastructure",2024-02-althea-liquid-infrastructure,2024-02-13,9,14,12.92,bot_race,Bot race (tier: A),https://code4rena.com/reports/2024-02-althea-liquid-infrastructure
+cygnet,Code4rena,"Althea Liquid Infrastructure",2024-02-althea-liquid-infrastructure,2024-02-13,10,14,12.92,bot_race,Bot race (tier: A),https://code4rena.com/reports/2024-02-althea-liquid-infrastructure
+pechenkata,Code4rena,"Althea Liquid Infrastructure",2024-02-althea-liquid-infrastructure,2024-02-13,11,14,12.92,bot_race,Bot race (tier: A),https://code4rena.com/reports/2024-02-althea-liquid-infrastructure
+vuln-detector,Code4rena,"Althea Liquid Infrastructure",2024-02-althea-liquid-infrastructure,2024-02-13,12,14,9.91,bot_race,Bot race (tier: B),https://code4rena.com/reports/2024-02-althea-liquid-infrastructure
+znbotty,Code4rena,"Althea Liquid Infrastructure",2024-02-althea-liquid-infrastructure,2024-02-13,13,14,9.91,bot_race,Bot race (tier: B),https://code4rena.com/reports/2024-02-althea-liquid-infrastructure
+dragonfly,Code4rena,"Althea Liquid Infrastructure",2024-02-althea-liquid-infrastructure,2024-02-13,14,14,,bot_race,Bot race (tier: C),https://code4rena.com/reports/2024-02-althea-liquid-infrastructure
+znbotty,Code4rena,"Wise Lending",2024-02-wise-lending,2024-02-21,1,18,1231.08,bot_race,Bot race winner (tier: Winner),https://code4rena.com/reports/2024-02-wise-lending
+pechenkata,Code4rena,"Wise Lending",2024-02-wise-lending,2024-02-21,2,18,135.28,bot_race,Bot race (tier: A),https://code4rena.com/reports/2024-02-wise-lending
+henry,Code4rena,"Wise Lending",2024-02-wise-lending,2024-02-21,3,18,135.28,bot_race,Bot race (tier: A),https://code4rena.com/reports/2024-02-wise-lending
+the-madaladinator,Code4rena,"Wise Lending",2024-02-wise-lending,2024-02-21,4,18,135.28,bot_race,Bot race (tier: A),https://code4rena.com/reports/2024-02-wise-lending
+mrshudson,Code4rena,"Wise Lending",2024-02-wise-lending,2024-02-21,5,18,135.28,bot_race,Bot race (tier: A),https://code4rena.com/reports/2024-02-wise-lending
+selucreh,Code4rena,"Wise Lending",2024-02-wise-lending,2024-02-21,6,18,135.28,bot_race,Bot race (tier: A),https://code4rena.com/reports/2024-02-wise-lending
+lightchaser,Code4rena,"Wise Lending",2024-02-wise-lending,2024-02-21,7,18,135.28,bot_race,Bot race (tier: A),https://code4rena.com/reports/2024-02-wise-lending
+tragedyotcommons,Code4rena,"Wise Lending",2024-02-wise-lending,2024-02-21,8,18,135.28,bot_race,Bot race (tier: A),https://code4rena.com/reports/2024-02-wise-lending
+hound,Code4rena,"Wise Lending",2024-02-wise-lending,2024-02-21,9,18,20.17,bot_race,Bot race (tier: B),https://code4rena.com/reports/2024-02-wise-lending
+vuln-detector,Code4rena,"Wise Lending",2024-02-wise-lending,2024-02-21,10,18,20.17,bot_race,Bot race (tier: B),https://code4rena.com/reports/2024-02-wise-lending
+tera,Code4rena,"Wise Lending",2024-02-wise-lending,2024-02-21,11,18,20.17,bot_race,Bot race (tier: B),https://code4rena.com/reports/2024-02-wise-lending
+ubl4nk-bot,Code4rena,"Wise Lending",2024-02-wise-lending,2024-02-21,12,18,20.17,bot_race,Bot race (tier: B),https://code4rena.com/reports/2024-02-wise-lending
+cygnet,Code4rena,"Wise Lending",2024-02-wise-lending,2024-02-21,13,18,20.17,bot_race,Bot race (tier: B),https://code4rena.com/reports/2024-02-wise-lending
+auditbase,Code4rena,"Wise Lending",2024-02-wise-lending,2024-02-21,14,18,20.17,bot_race,Bot race (tier: B),https://code4rena.com/reports/2024-02-wise-lending
+solidinspect,Code4rena,"Wise Lending",2024-02-wise-lending,2024-02-21,15,18,,bot_race,Bot race (tier: C),https://code4rena.com/reports/2024-02-wise-lending
+baudit,Code4rena,"Wise Lending",2024-02-wise-lending,2024-02-21,16,18,,bot_race,Bot race (tier: C),https://code4rena.com/reports/2024-02-wise-lending
+outis,Code4rena,"Wise Lending",2024-02-wise-lending,2024-02-21,17,18,,bot_race,Bot race (tier: C),https://code4rena.com/reports/2024-02-wise-lending
+dragonfly,Code4rena,"Wise Lending",2024-02-wise-lending,2024-02-21,18,18,,bot_race,Bot race (tier: C),https://code4rena.com/reports/2024-02-wise-lending
+lightchaser,Code4rena,"UniStaker Infrastructure",2024-02-uniswap-foundation,2024-02-23,1,17,916.40,bot_race,Bot race winner (tier: Winner),https://code4rena.com/reports/2024-02-uniswap-foundation
+henry,Code4rena,"UniStaker Infrastructure",2024-02-uniswap-foundation,2024-02-23,2,17,704.92,bot_race,Bot race (tier: A),https://code4rena.com/reports/2024-02-uniswap-foundation
+cygnet,Code4rena,"UniStaker Infrastructure",2024-02-uniswap-foundation,2024-02-23,3,17,25.15,bot_race,Bot race (tier: B),https://code4rena.com/reports/2024-02-uniswap-foundation
+pechenkata,Code4rena,"UniStaker Infrastructure",2024-02-uniswap-foundation,2024-02-23,4,17,25.15,bot_race,Bot race (tier: B),https://code4rena.com/reports/2024-02-uniswap-foundation
+selucreh,Code4rena,"UniStaker Infrastructure",2024-02-uniswap-foundation,2024-02-23,5,17,25.15,bot_race,Bot race (tier: B),https://code4rena.com/reports/2024-02-uniswap-foundation
+dragonfly,Code4rena,"UniStaker Infrastructure",2024-02-uniswap-foundation,2024-02-23,6,17,25.15,bot_race,Bot race (tier: B),https://code4rena.com/reports/2024-02-uniswap-foundation
+outis,Code4rena,"UniStaker Infrastructure",2024-02-uniswap-foundation,2024-02-23,7,17,25.15,bot_race,Bot race (tier: B),https://code4rena.com/reports/2024-02-uniswap-foundation
+ubl4nk-bot,Code4rena,"UniStaker Infrastructure",2024-02-uniswap-foundation,2024-02-23,8,17,,bot_race,Bot race (tier: C),https://code4rena.com/reports/2024-02-uniswap-foundation
+znbotty,Code4rena,"UniStaker Infrastructure",2024-02-uniswap-foundation,2024-02-23,9,17,,bot_race,Bot race (tier: C),https://code4rena.com/reports/2024-02-uniswap-foundation
+mrshudson,Code4rena,"UniStaker Infrastructure",2024-02-uniswap-foundation,2024-02-23,10,17,,bot_race,Bot race (tier: C),https://code4rena.com/reports/2024-02-uniswap-foundation
+baudit,Code4rena,"UniStaker Infrastructure",2024-02-uniswap-foundation,2024-02-23,11,17,,bot_race,Bot race (tier: C),https://code4rena.com/reports/2024-02-uniswap-foundation
+tragedyotcommons,Code4rena,"UniStaker Infrastructure",2024-02-uniswap-foundation,2024-02-23,12,17,,bot_race,Bot race (tier: C),https://code4rena.com/reports/2024-02-uniswap-foundation
+hound,Code4rena,"UniStaker Infrastructure",2024-02-uniswap-foundation,2024-02-23,13,17,,bot_race,Bot race (tier: C),https://code4rena.com/reports/2024-02-uniswap-foundation
+auditbase,Code4rena,"UniStaker Infrastructure",2024-02-uniswap-foundation,2024-02-23,14,17,,bot_race,Bot race (tier: C),https://code4rena.com/reports/2024-02-uniswap-foundation
+solidinspect,Code4rena,"UniStaker Infrastructure",2024-02-uniswap-foundation,2024-02-23,15,17,,bot_race,Bot race (tier: C),https://code4rena.com/reports/2024-02-uniswap-foundation
+tera,Code4rena,"UniStaker Infrastructure",2024-02-uniswap-foundation,2024-02-23,16,17,,bot_race,Bot race (tier: C),https://code4rena.com/reports/2024-02-uniswap-foundation
+vuln-detector,Code4rena,"UniStaker Infrastructure",2024-02-uniswap-foundation,2024-02-23,17,17,,bot_race,Bot race (tier: C),https://code4rena.com/reports/2024-02-uniswap-foundation
+tragedyotcommons,Code4rena,"Spectra",2024-02-spectra,2024-02-23,1,17,455.88,bot_race,Bot race winner (tier: Winner),https://code4rena.com/reports/2024-02-spectra
+henry,Code4rena,"Spectra",2024-02-spectra,2024-02-23,2,17,87.67,bot_race,Bot race (tier: A),https://code4rena.com/reports/2024-02-spectra
+lightchaser,Code4rena,"Spectra",2024-02-spectra,2024-02-23,3,17,87.67,bot_race,Bot race (tier: A),https://code4rena.com/reports/2024-02-spectra
+mrshudson,Code4rena,"Spectra",2024-02-spectra,2024-02-23,4,17,87.67,bot_race,Bot race (tier: A),https://code4rena.com/reports/2024-02-spectra
+dragonfly,Code4rena,"Spectra",2024-02-spectra,2024-02-23,5,17,87.67,bot_race,Bot race (tier: A),https://code4rena.com/reports/2024-02-spectra
+znbotty,Code4rena,"Spectra",2024-02-spectra,2024-02-23,6,17,4.22,bot_race,Bot race (tier: B),https://code4rena.com/reports/2024-02-spectra
+cygnet,Code4rena,"Spectra",2024-02-spectra,2024-02-23,7,17,4.22,bot_race,Bot race (tier: B),https://code4rena.com/reports/2024-02-spectra
+ubl4nk-bot,Code4rena,"Spectra",2024-02-spectra,2024-02-23,8,17,4.22,bot_race,Bot race (tier: B),https://code4rena.com/reports/2024-02-spectra
+hound,Code4rena,"Spectra",2024-02-spectra,2024-02-23,9,17,4.22,bot_race,Bot race (tier: B),https://code4rena.com/reports/2024-02-spectra
+pechenkata,Code4rena,"Spectra",2024-02-spectra,2024-02-23,10,17,4.22,bot_race,Bot race (tier: B),https://code4rena.com/reports/2024-02-spectra
+selucreh,Code4rena,"Spectra",2024-02-spectra,2024-02-23,11,17,4.22,bot_race,Bot race (tier: B),https://code4rena.com/reports/2024-02-spectra
+vuln-detector,Code4rena,"Spectra",2024-02-spectra,2024-02-23,12,17,4.22,bot_race,Bot race (tier: B),https://code4rena.com/reports/2024-02-spectra
+solidinspect,Code4rena,"Spectra",2024-02-spectra,2024-02-23,13,17,4.22,bot_race,Bot race (tier: B),https://code4rena.com/reports/2024-02-spectra
+outis,Code4rena,"Spectra",2024-02-spectra,2024-02-23,14,17,4.22,bot_race,Bot race (tier: B),https://code4rena.com/reports/2024-02-spectra
+auditbase,Code4rena,"Spectra",2024-02-spectra,2024-02-23,15,17,,bot_race,Bot race (tier: C),https://code4rena.com/reports/2024-02-spectra
+baudit,Code4rena,"Spectra",2024-02-spectra,2024-02-23,16,17,,bot_race,Bot race (tier: C),https://code4rena.com/reports/2024-02-spectra
+tera,Code4rena,"Spectra",2024-02-spectra,2024-02-23,17,17,,bot_race,Bot race (tier: C),https://code4rena.com/reports/2024-02-spectra
+cygnet,Code4rena,"PoolTogether",2024-03-pooltogether,2024-03-04,1,17,212.38,bot_race,Bot race winner (tier: Winner),https://code4rena.com/reports/2024-03-pooltogether
+mrshudson,Code4rena,"PoolTogether",2024-03-pooltogether,2024-03-04,2,17,13.61,bot_race,Bot race (tier: A),https://code4rena.com/reports/2024-03-pooltogether
+lightchaser,Code4rena,"PoolTogether",2024-03-pooltogether,2024-03-04,3,17,13.61,bot_race,Bot race (tier: A),https://code4rena.com/reports/2024-03-pooltogether
+vuln-detector,Code4rena,"PoolTogether",2024-03-pooltogether,2024-03-04,4,17,13.61,bot_race,Bot race (tier: A),https://code4rena.com/reports/2024-03-pooltogether
+tragedyotcommons,Code4rena,"PoolTogether",2024-03-pooltogether,2024-03-04,5,17,13.61,bot_race,Bot race (tier: A),https://code4rena.com/reports/2024-03-pooltogether
+hound,Code4rena,"PoolTogether",2024-03-pooltogether,2024-03-04,6,17,13.61,bot_race,Bot race (tier: A),https://code4rena.com/reports/2024-03-pooltogether
+ubl4nk-bot,Code4rena,"PoolTogether",2024-03-pooltogether,2024-03-04,7,17,13.61,bot_race,Bot race (tier: A),https://code4rena.com/reports/2024-03-pooltogether
+znbotty,Code4rena,"PoolTogether",2024-03-pooltogether,2024-03-04,8,17,13.61,bot_race,Bot race (tier: A),https://code4rena.com/reports/2024-03-pooltogether
+selucreh,Code4rena,"PoolTogether",2024-03-pooltogether,2024-03-04,9,17,13.61,bot_race,Bot race (tier: A),https://code4rena.com/reports/2024-03-pooltogether
+tera,Code4rena,"PoolTogether",2024-03-pooltogether,2024-03-04,10,17,13.61,bot_race,Bot race (tier: A),https://code4rena.com/reports/2024-03-pooltogether
+henry,Code4rena,"PoolTogether",2024-03-pooltogether,2024-03-04,11,17,13.61,bot_race,Bot race (tier: A),https://code4rena.com/reports/2024-03-pooltogether
+auditbase,Code4rena,"PoolTogether",2024-03-pooltogether,2024-03-04,12,17,13.61,bot_race,Bot race (tier: A),https://code4rena.com/reports/2024-03-pooltogether
+the-madaladinator,Code4rena,"PoolTogether",2024-03-pooltogether,2024-03-04,13,17,13.61,bot_race,Bot race (tier: A),https://code4rena.com/reports/2024-03-pooltogether
+dragonfly,Code4rena,"PoolTogether",2024-03-pooltogether,2024-03-04,14,17,8.58,bot_race,Bot race (tier: B),https://code4rena.com/reports/2024-03-pooltogether
+solidinspect,Code4rena,"PoolTogether",2024-03-pooltogether,2024-03-04,15,17,8.58,bot_race,Bot race (tier: B),https://code4rena.com/reports/2024-03-pooltogether
+baudit,Code4rena,"PoolTogether",2024-03-pooltogether,2024-03-04,16,17,8.58,bot_race,Bot race (tier: B),https://code4rena.com/reports/2024-03-pooltogether
+dervish,Code4rena,"PoolTogether",2024-03-pooltogether,2024-03-04,17,17,,bot_race,Bot race (tier: C),https://code4rena.com/reports/2024-03-pooltogether
+hound,Code4rena,"Revert Lend",2024-03-revert-lend,2024-03-04,1,19,1297.67,bot_race,Bot race winner (tier: Winner),https://code4rena.com/reports/2024-03-revert-lend
+the-madaladinator,Code4rena,"Revert Lend",2024-03-revert-lend,2024-03-04,2,19,499.11,bot_race,Bot race (tier: A),https://code4rena.com/reports/2024-03-revert-lend
+henry,Code4rena,"Revert Lend",2024-03-revert-lend,2024-03-04,3,19,499.11,bot_race,Bot race (tier: A),https://code4rena.com/reports/2024-03-revert-lend
+cygnet,Code4rena,"Revert Lend",2024-03-revert-lend,2024-03-04,4,19,67.32,bot_race,Bot race (tier: B),https://code4rena.com/reports/2024-03-revert-lend
+pechenkata,Code4rena,"Revert Lend",2024-03-revert-lend,2024-03-04,5,19,67.32,bot_race,Bot race (tier: B),https://code4rena.com/reports/2024-03-revert-lend
+tragedyotcommons,Code4rena,"Revert Lend",2024-03-revert-lend,2024-03-04,6,19,67.32,bot_race,Bot race (tier: B),https://code4rena.com/reports/2024-03-revert-lend
+ubl4nk-bot,Code4rena,"Revert Lend",2024-03-revert-lend,2024-03-04,7,19,,bot_race,Bot race (tier: C),https://code4rena.com/reports/2024-03-revert-lend
+dervish,Code4rena,"Revert Lend",2024-03-revert-lend,2024-03-04,8,19,,bot_race,Bot race (tier: C),https://code4rena.com/reports/2024-03-revert-lend
+mrshudson,Code4rena,"Revert Lend",2024-03-revert-lend,2024-03-04,9,19,,bot_race,Bot race (tier: C),https://code4rena.com/reports/2024-03-revert-lend
+outis,Code4rena,"Revert Lend",2024-03-revert-lend,2024-03-04,10,19,,bot_race,Bot race (tier: C),https://code4rena.com/reports/2024-03-revert-lend
+baudit,Code4rena,"Revert Lend",2024-03-revert-lend,2024-03-04,11,19,,bot_race,Bot race (tier: C),https://code4rena.com/reports/2024-03-revert-lend
+solidinspect,Code4rena,"Revert Lend",2024-03-revert-lend,2024-03-04,12,19,,bot_race,Bot race (tier: C),https://code4rena.com/reports/2024-03-revert-lend
+tera,Code4rena,"Revert Lend",2024-03-revert-lend,2024-03-04,13,19,,bot_race,Bot race (tier: C),https://code4rena.com/reports/2024-03-revert-lend
+selucreh,Code4rena,"Revert Lend",2024-03-revert-lend,2024-03-04,14,19,,bot_race,Bot race (tier: C),https://code4rena.com/reports/2024-03-revert-lend
+lightchaser,Code4rena,"Revert Lend",2024-03-revert-lend,2024-03-04,15,19,,bot_race,Bot race (tier: C),https://code4rena.com/reports/2024-03-revert-lend
+vuln-detector,Code4rena,"Revert Lend",2024-03-revert-lend,2024-03-04,16,19,,bot_race,Bot race (tier: C),https://code4rena.com/reports/2024-03-revert-lend
+dragonfly,Code4rena,"Revert Lend",2024-03-revert-lend,2024-03-04,17,19,,bot_race,Bot race (tier: C),https://code4rena.com/reports/2024-03-revert-lend
+znbotty,Code4rena,"Revert Lend",2024-03-revert-lend,2024-03-04,18,19,,bot_race,Bot race (tier: C),https://code4rena.com/reports/2024-03-revert-lend
+auditbase,Code4rena,"Revert Lend",2024-03-revert-lend,2024-03-04,19,19,,bot_race,Bot race (tier: C),https://code4rena.com/reports/2024-03-revert-lend
+pechenkata,Code4rena,"Coinbase",2024-03-coinbase,2024-03-14,1,18,195.74,bot_race,Bot race winner (tier: Winner),https://code4rena.com/reports/2024-03-coinbase
+selucreh,Code4rena,"Coinbase",2024-03-coinbase,2024-03-14,2,18,11.58,bot_race,Bot race (tier: A),https://code4rena.com/reports/2024-03-coinbase
+znbotty,Code4rena,"Coinbase",2024-03-coinbase,2024-03-14,3,18,11.58,bot_race,Bot race (tier: A),https://code4rena.com/reports/2024-03-coinbase
+outis,Code4rena,"Coinbase",2024-03-coinbase,2024-03-14,4,18,11.58,bot_race,Bot race (tier: A),https://code4rena.com/reports/2024-03-coinbase
+vuln-detector,Code4rena,"Coinbase",2024-03-coinbase,2024-03-14,5,18,11.58,bot_race,Bot race (tier: A),https://code4rena.com/reports/2024-03-coinbase
+hound,Code4rena,"Coinbase",2024-03-coinbase,2024-03-14,6,18,11.58,bot_race,Bot race (tier: A),https://code4rena.com/reports/2024-03-coinbase
+solidinspect,Code4rena,"Coinbase",2024-03-coinbase,2024-03-14,7,18,11.58,bot_race,Bot race (tier: A),https://code4rena.com/reports/2024-03-coinbase
+mrshudson,Code4rena,"Coinbase",2024-03-coinbase,2024-03-14,8,18,11.58,bot_race,Bot race (tier: A),https://code4rena.com/reports/2024-03-coinbase
+henry,Code4rena,"Coinbase",2024-03-coinbase,2024-03-14,9,18,11.58,bot_race,Bot race (tier: A),https://code4rena.com/reports/2024-03-coinbase
+tragedyotcommons,Code4rena,"Coinbase",2024-03-coinbase,2024-03-14,10,18,11.58,bot_race,Bot race (tier: A),https://code4rena.com/reports/2024-03-coinbase
+tera,Code4rena,"Coinbase",2024-03-coinbase,2024-03-14,11,18,11.58,bot_race,Bot race (tier: A),https://code4rena.com/reports/2024-03-coinbase
+cygnet,Code4rena,"Coinbase",2024-03-coinbase,2024-03-14,12,18,11.58,bot_race,Bot race (tier: A),https://code4rena.com/reports/2024-03-coinbase
+ubl4nk-bot,Code4rena,"Coinbase",2024-03-coinbase,2024-03-14,13,18,11.58,bot_race,Bot race (tier: A),https://code4rena.com/reports/2024-03-coinbase
+lightchaser,Code4rena,"Coinbase",2024-03-coinbase,2024-03-14,14,18,11.58,bot_race,Bot race (tier: A),https://code4rena.com/reports/2024-03-coinbase
+baudit,Code4rena,"Coinbase",2024-03-coinbase,2024-03-14,15,18,6.05,bot_race,Bot race (tier: B),https://code4rena.com/reports/2024-03-coinbase
+dervish,Code4rena,"Coinbase",2024-03-coinbase,2024-03-14,16,18,6.05,bot_race,Bot race (tier: B),https://code4rena.com/reports/2024-03-coinbase
+auditbase,Code4rena,"Coinbase",2024-03-coinbase,2024-03-14,17,18,6.05,bot_race,Bot race (tier: B),https://code4rena.com/reports/2024-03-coinbase
+dragonfly,Code4rena,"Coinbase",2024-03-coinbase,2024-03-14,18,18,6.05,bot_race,Bot race (tier: B),https://code4rena.com/reports/2024-03-coinbase
+savant,Sherlock,Symbiotic Relay,symbiotic-relay-2025,2025-06-01,6,39,3191.11,human,"1 finding: Operator's stake ignored on re-registration due to stale state",https://audits.sherlock.xyz/watson/snjax
+v12,Cantina,Multiple competitions,,2024-09-25,,,,human,Entered 6 competitions - found 2 High 2 Medium 4 Low 9 Info,https://www.zellic.io/blog/introducing-v12/
+v12,Code4rena,SukukFi,2025-11-sukukfi,2025-12-05,,,40000,pre-audit,V12 pre-audit: 1 High 1 Medium 18 Low 5 QA (out-of-scope for wardens),https://github.com/code-423n4/2025-11-sukukfi/blob/main/2025_11_sukukfi_v12.md
+v12,Code4rena,Garden,2025-11-garden,2025-12-08,,,37500,pre-audit,V12 pre-audit: 1 High (out-of-scope for wardens),https://github.com/code-423n4/2025-11-garden/blob/main/2025-11-garden-V12-findings.md
+v12,Code4rena,Megapot,2025-11-megapot,2025-11-13,,,30000,pre-audit,V12 pre-audit: 14 Low (out-of-scope for wardens),https://github.com/code-423n4/2025-11-megapot/blob/main/2025-11-megapot_V12.md
+v12,Code4rena,Ekubo,2025-11-ekubo,2025-12-10,,,183500,pre-audit,V12 pre-audit: 5 Low (out-of-scope for wardens),https://github.com/code-423n4/2025-11-ekubo/blob/main/2025-11-ekubo_V12.md
+v12,Code4rena,Covenant,2025-10-covenant,2025-11-03,,,43000,pre-audit,V12 pre-audit: 4 Low 76 QA (out-of-scope for wardens),https://github.com/code-423n4/2025-10-covenant/blob/main/2025-10-covenant_V12.md
+v12,Code4rena,Hybra Finance,2025-10-hybra-finance,2025-10-16,,,33000,pre-audit,V12 pre-audit: 7 High 3 Medium 23 Low (out-of-scope for wardens),https://github.com/code-423n4/2025-10-hybra-finance/blob/main/Hybra-V12-output.md
+v12,Code4rena,Sequence,2025-11-sequence,2025-11-17,,,73000,pre-audit,V12 pre-audit: 5 Low (out-of-scope for wardens),https://github.com/code-423n4/2025-11-sequence/blob/main/2025-11-sequence-v12-findings.md
+almanax,Cantina,Citrea,49b9e08d-4f8f-4103-b6e5-f5f43cf9faa1,2025-08-15,4,479,,human,First ZK rollup on Bitcoin,https://cantina.xyz/competitions/49b9e08d-4f8f-4103-b6e5-f5f43cf9faa1
+almanax,Code4rena,Succinct SP1,succinct-sp1,2025-09-15,6,12,4128,human,RISC-V based ZK virtual machine,https://code4rena.com/audits/2025-09-succinct
+almanax,Code4rena,Hybra Finance,hybra-finance,2025-10-06,69,82,1,human,Decentralized liquidity layer for Hyperliquid,https://code4rena.com/audits/2025-10-hybra-finance
+almanax,Code4rena,GTE Spot CLOB,gte-spot-clob,2025-07-23,62,72,2,human,World's fastest DEX,https://code4rena.com/audits/2025-07-gte-spot-clob-and-router
+maxzuvex,Code4rena,Forte Float128 Solidity Library,forte-float128-solidity-library,2025-04-15,2,,,human,Solidity - AI method by ML engineer,https://x.com/maxzuvex/status/1973691310398939589
+maxzuvex,Code4rena,Cabal Liquid Staking Token,cabal-liquid-staking-token,2025-04-15,2,,,human,Solidity + Assembly - AI method by ML engineer,https://x.com/maxzuvex/status/1973691310398939589
+maxzuvex,Code4rena,Blackhole,blackhole,2025-05-15,3,,,human,Move - AI method by ML engineer,https://x.com/maxzuvex/status/1973691310398939589
+maxzuvex,Code4rena,Chainlink Rewards,chainlink-rewards,2025-06-15,1,,,human,Solidity - 🥇 Gold - AI method by ML engineer,https://x.com/maxzuvex/status/1973691310398939589
+maxzuvex,Code4rena,Meteora Dynamic Bonding Curve,meteora-dynamic-bonding-curve,2025-08-15,2,,,human,Rust - AI method by ML engineer,https://x.com/maxzuvex/status/1973691310398939589
+agentlisa,Code4rena,Virtuals Protocol,virtuals-protocol,2025-04-17,,,37,human,1 High-risk 2 Medium-risk vulnerabilities detected,https://agentlisa.ai/blog/post/code4rena-competition-success
+the-hound,Code4rena,SecondSwap (Research),secondswap,2025-01-15,20,294,,backtesting,Research evaluation: 10 true positives (1 High 7 Medium) ~1.91 points estimated top 15-25,https://muellerberndt.medium.com/unleashing-the-hound-how-ai-agents-find-deep-logic-bugs-in-any-codebase-64c2110e3a6f
